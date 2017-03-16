@@ -1,11 +1,21 @@
 GEM
-  remote: https://rubygems.org/
+  remote: http://rubygems.org/
   specs:
+    activesupport (4.2.8)
+      i18n (~> 0.7)
+      minitest (~> 5.1)
+      thread_safe (~> 0.3, >= 0.3.4)
+      tzinfo (~> 1.1)
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
     colorator (1.1.0)
     ffi (1.9.18)
+    ffi (1.9.18-x64-mingw32)
     forwardable-extended (2.6.0)
+    html-pipeline (2.5.0)
+      activesupport (>= 2)
+      nokogiri (>= 1.4)
+    i18n (0.8.1)
     jekyll (3.4.2)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -19,8 +29,16 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-feed (0.9.1)
       jekyll (~> 3.3)
+    jekyll-mentions (1.2.0)
+      activesupport (~> 4.0)
+      html-pipeline (~> 2.3)
+      jekyll (~> 3.0)
+    jekyll-redirect-from (0.12.1)
+      jekyll (~> 3.3)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
+    jekyll-sitemap (1.0.0)
+      jekyll (~> 3.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.13.2)
@@ -29,8 +47,12 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
-    minima (2.1.0)
-      jekyll (~> 3.3)
+    mini_portile2 (2.1.0)
+    minitest (5.10.1)
+    nokogiri (1.7.0.1)
+      mini_portile2 (~> 2.1.0)
+    nokogiri (1.7.0.1-x64-mingw32)
+      mini_portile2 (~> 2.1.0)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
@@ -40,18 +62,20 @@ GEM
     rouge (1.11.1)
     safe_yaml (1.0.4)
     sass (3.4.23)
+    thread_safe (0.3.6)
+    tzinfo (1.2.2)
+      thread_safe (~> 0.1)
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
-  jekyll (= 3.4.2)
-  jekyll-feed (~> 0.6)
-  minima (~> 2.0)
-  tzinfo-data
-
-RUBY VERSION
-   ruby 2.4.0p0
+  jekyll
+  jekyll-feed
+  jekyll-mentions
+  jekyll-redirect-from
+  jekyll-sitemap
 
 BUNDLED WITH
    1.14.6
