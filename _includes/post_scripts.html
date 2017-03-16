@@ -9,3 +9,28 @@ var config = {
 <script src="{{ "/js/photoswipe.js" | absolute_url }}"></script>
 <script src="{{ "/js/photoswipe-ui-default.js" | absolute_url }}"></script>
 <script src="{{ "/js/post.js" | absolute_url }}"></script>
+
+<script src="//cdn.bootcss.com/raphael/2.2.7/raphael.min.js"></script>
+<script src="//cdn.bootcss.com/flowchart/1.6.5/flowchart.min.js"></script>
+
+<script>
+$(document).ready(function(){
+    var e_list = $("code.language-flow");
+    for(var i = 0 , l = e_list.length ; i < l ; i++){
+	var div_name = 'language-flow-' + i;
+        var e = $(e_list[0]);
+	var code = e.text();
+	var ep = e.parent();
+	e.remove()
+
+	var o_div = document.createElement("div");
+	o_div.id = div_name;
+	ep.append(o_div);
+	o_div.style.textAlign = 'center';
+
+	var diagram = flowchart.parse(code);
+	diagram.drawSVG(div_name);
+    }
+});
+
+</script>

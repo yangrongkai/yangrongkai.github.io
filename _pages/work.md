@@ -5,13 +5,13 @@ author:    Burgess Yang
 weight:    5
 visible:   false
 menutitle: Work
-title:     Work-sharing     
+title:     Work-sharing 
 excerpt:   If you click on the link below it will render all content of the blog in one site. This can take some time!
 
 ---
 
 <div id="content" class="content">
-    <h3>心桥医疗</h3>
+    <h3>培训资料</h3>
     <ul class="category recent-posts">       
         {% for post in site.posts %}
         {% unless post.draft %}

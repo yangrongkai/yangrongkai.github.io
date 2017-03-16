@@ -32,4 +32,4 @@ gems:
   - jekyll-redirect-from
 
 # custome fields
-_hide_categorys: ['Work']
+_hide_categorys: ['Work','Report']
