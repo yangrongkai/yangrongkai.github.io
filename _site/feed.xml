@@ -3,10 +3,10 @@
   <channel>
     <title>Burgess Yang</title>
     <description>Burgess Yang of resource</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-      <pubDate>Thu, 16 Mar 2017 18:37:03 +0800</pubDate>
-    <lastBuildDate>Thu, 16 Mar 2017 18:37:03 +0800</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+      <pubDate>Thu, 16 Mar 2017 18:41:10 +0800</pubDate>
+    <lastBuildDate>Thu, 16 Mar 2017 18:41:10 +0800</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>&lt;p&gt;this is tesk&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Mar 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/work/app-doctor-base-train</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/work/app-doctor-base-train</guid>
+        <link>/blog/work/app-doctor-base-train</link>
+        <guid isPermaLink="true">/blog/work/app-doctor-base-train</guid>
         
         <category>E:液病-医生端-基础篇</category>
         
@@ -34,22 +34,22 @@ If you like to see the theme in production have a look at &lt;a href=&quot;http:
 &lt;div class=&quot;album&quot;&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;http://localhost:4000/media/img/2016-06-08-Readme-front-page-previewe.jpg&quot; /&gt;
+&lt;img src=&quot;/media/img/2016-06-08-Readme-front-page-previewe.jpg&quot; /&gt;
 &lt;figcaption&gt;Frontpage&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;http://localhost:4000/media/img/2016-06-08-Readme-post-preview.jpg&quot; /&gt;
+&lt;img src=&quot;/media/img/2016-06-08-Readme-post-preview.jpg&quot; /&gt;
 &lt;figcaption&gt;Post&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;http://localhost:4000/media/img/2016-06-08-Readme-content-preview.jpg&quot; /&gt;
+&lt;img src=&quot;/media/img/2016-06-08-Readme-content-preview.jpg&quot; /&gt;
 &lt;figcaption&gt;Demo&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;http://localhost:4000/media/img/2016-06-08-Readme-about-preview.jpg&quot; /&gt;
+&lt;img src=&quot;/media/img/2016-06-08-Readme-about-preview.jpg&quot; /&gt;
 &lt;figcaption&gt;About Page&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -89,7 +89,7 @@ If you like to see the theme in production have a look at &lt;a href=&quot;http:
 
 &lt;h3 id=&quot;yaml-features&quot;&gt;YAML Features&lt;/h3&gt;
 
-&lt;p&gt;Following (additional) features are supported in the header (&lt;a href=&quot;https://jekyllrb.com/docs/frontmatter/&quot;&gt;YAML Front Matter&lt;/a&gt;) of each post. A detailed description can be found in the &lt;a href=&quot;http://localhost:4000/blog/features/YAML-Features&quot;&gt;YAML Custom Features post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Following (additional) features are supported in the header (&lt;a href=&quot;https://jekyllrb.com/docs/frontmatter/&quot;&gt;YAML Front Matter&lt;/a&gt;) of each post. A detailed description can be found in the &lt;a href=&quot;/blog/features/YAML-Features&quot;&gt;YAML Custom Features post&lt;/a&gt;.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;---
 title:         Example      #Page/post title
@@ -135,8 +135,8 @@ SOFTWARE.
 &lt;/code&gt;&lt;/pre&gt;
 </description>
         <pubDate>Wed, 08 Jun 2016 23:25:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/tutorial/Readme</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/tutorial/Readme</guid>
+        <link>/blog/tutorial/Readme</link>
+        <guid isPermaLink="true">/blog/tutorial/Readme</guid>
         
         <category>Jekyll</category>
         
@@ -164,7 +164,7 @@ SOFTWARE.
 &lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;div class=&quot;bg-scroll&quot; style=&quot;background-image: url('{{ &quot;/media/img/mountain1.jpg&quot; | absolute_url }}')&quot;&amp;gt;&amp;lt;/div&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;div class=&quot;bg-scroll&quot; style=&quot;background-image: url('http://localhost:4000/media/img/mountain1.jpg')&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;bg-scroll&quot; style=&quot;background-image: url('/media/img/mountain1.jpg')&quot;&gt;&lt;/div&gt;
 
 &lt;h4 id=&quot;caption-for-image&quot;&gt;Caption for Image&lt;/h4&gt;
 
@@ -175,7 +175,7 @@ SOFTWARE.
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;http://localhost:4000/media/img/mountain2.jpg&quot; /&gt;
+&lt;img src=&quot;/media/img/mountain2.jpg&quot; /&gt;
 &lt;figcaption&gt;A nice mountain&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -195,13 +195,13 @@ SOFTWARE.
 &amp;lt;/aside&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/media/img/mountain2.jpg#right&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/media/img/mountain2.jpg#right&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent accumsan ante nulla, quis pulvinar nibh tempus sed. In congue congue odio, vel ornare mauris ultrices vel. Vestibulum tristique eros at enim vulputate fringilla. Nullam non augue sit amet elit interdum tempus non ut justo.&lt;/p&gt;
 
 &lt;aside&gt;
 &lt;figure class=&quot;left&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/media/img/mountain3.jpg&quot; /&gt;
+&lt;img src=&quot;/media/img/mountain3.jpg&quot; /&gt;
 &lt;figcaption&gt;What a view!&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/aside&gt;
@@ -224,7 +224,7 @@ SOFTWARE.
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;figure class=&quot;large&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;http://localhost:4000/media/img/mountain2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/media/img/mountain2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;On top of the mountain!&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -257,15 +257,15 @@ SOFTWARE.
 
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/mountain1.jpg&quot; /&gt;
+      &lt;img src=&quot;/media/img/mountain1.jpg&quot; /&gt;
       &lt;figcaption&gt;Mountain and lake&lt;/figcaption&gt;
    &lt;/figure&gt;   
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/mountain2.jpg&quot; /&gt;
+      &lt;img src=&quot;/media/img/mountain2.jpg&quot; /&gt;
       &lt;figcaption&gt;On top of the mountain!&lt;/figcaption&gt;
    &lt;/figure&gt;   
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/mountain3.jpg&quot; /&gt;
+      &lt;img src=&quot;/media/img/mountain3.jpg&quot; /&gt;
       &lt;figcaption&gt;What a view&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
@@ -326,11 +326,11 @@ Chemicals including paint and thinners must be stored in labelled containers tha
 
 &lt;h3 id=&quot;404-page&quot;&gt;404 Page&lt;/h3&gt;
 
-&lt;p&gt;The 404 page has a fuzzy search implemented that lists urls that are similar to the entered url. Try it out: &lt;a href=&quot;http://localhost:4000/features&quot;&gt;Unknown URL&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The 404 page has a fuzzy search implemented that lists urls that are similar to the entered url. Try it out: &lt;a href=&quot;/features&quot;&gt;Unknown URL&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;json-api&quot;&gt;JSON API&lt;/h3&gt;
 
-&lt;p&gt;The theme offers a JSON API for the blog posts. You can query all blog posts via: &lt;a href=&quot;http://localhost:4000/api/posts.json&quot;&gt;&lt;code&gt;/api/posts.json&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The theme offers a JSON API for the blog posts. You can query all blog posts via: &lt;a href=&quot;/api/posts.json&quot;&gt;&lt;code&gt;/api/posts.json&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;pdf-and-powerpoint-integration&quot;&gt;PDF and PowerPoint integration&lt;/h3&gt;
 
@@ -353,8 +353,8 @@ Chemicals including paint and thinners must be stored in labelled containers tha
 &lt;p&gt;More formating features can be found in the &lt;a href=&quot;http://kramdown.gettalong.org/syntax.html&quot;&gt;Kramdown syntax&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 07 Jun 2016 18:10:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/tutorial/Features</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/tutorial/Features</guid>
+        <link>/blog/tutorial/Features</link>
+        <guid isPermaLink="true">/blog/tutorial/Features</guid>
         
         <category>Jekyll</category>
         
@@ -379,7 +379,7 @@ menutitle:         &quot;YAML Features&quot;
 ---
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;I also added a redirect to this post. If you browse to &lt;a href=&quot;http://localhost:4000/YAML-Features-Redirect&quot;&gt;YAML-Feature-Redirect&lt;/a&gt; you should be redirected to this page. This only works if you have not removed the plugins. Hint: There is a &lt;a href=&quot;https://github.com/jwillmer/jekyllDecent/issues/35&quot;&gt;redirect bug&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I also added a redirect to this post. If you browse to &lt;a href=&quot;/YAML-Features-Redirect&quot;&gt;YAML-Feature-Redirect&lt;/a&gt; you should be redirected to this page. This only works if you have not removed the plugins. Hint: There is a &lt;a href=&quot;https://github.com/jwillmer/jekyllDecent/issues/35&quot;&gt;redirect bug&lt;/a&gt;.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;---
 redirect_from:     &quot;/YAML-Features-Redirect&quot;
@@ -445,7 +445,7 @@ comments:       true
 ---
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;If you like to write some formula you can enable &lt;a href=&quot;https://www.mathjax.org/&quot;&gt;MathJax&lt;/a&gt;. Go to the &lt;a href=&quot;http://localhost:4000/blog/features/Features&quot;&gt;theme feature post&lt;/a&gt; to see it in action. You can find the &lt;a href=&quot;http://docs.mathjax.org/en/latest/options/tex2jax.html#configure-tex2jax&quot;&gt;preprocessing options&lt;/a&gt; in &lt;code&gt;_includes/mathjax_support.html&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;If you like to write some formula you can enable &lt;a href=&quot;https://www.mathjax.org/&quot;&gt;MathJax&lt;/a&gt;. Go to the &lt;a href=&quot;/blog/features/Features&quot;&gt;theme feature post&lt;/a&gt; to see it in action. You can find the &lt;a href=&quot;http://docs.mathjax.org/en/latest/options/tex2jax.html#configure-tex2jax&quot;&gt;preprocessing options&lt;/a&gt; in &lt;code&gt;_includes/mathjax_support.html&lt;/code&gt;.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;---        
 math:           true  
@@ -455,8 +455,8 @@ math:           true
 &lt;p&gt;Additional features, that can be specified, can be found in the &lt;a href=&quot;https://jekyllrb.com/docs/frontmatter/&quot;&gt;YAML Front Matter documentation&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Apr 2016 05:40:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/tutorial/YAML-Features</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/tutorial/YAML-Features</guid>
+        <link>/blog/tutorial/YAML-Features</link>
+        <guid isPermaLink="true">/blog/tutorial/YAML-Features</guid>
         
         <category>Jekyll</category>
         
@@ -577,8 +577,8 @@ math:           true
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 05 Mar 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/tutorial/Content</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/tutorial/Content</guid>
+        <link>/blog/tutorial/Content</link>
+        <guid isPermaLink="true">/blog/tutorial/Content</guid>
         
         <category>Jekyll</category>
         
