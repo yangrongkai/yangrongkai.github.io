@@ -5,8 +5,8 @@
     <description>Burgess Yang of resource</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-      <pubDate>Tue, 21 Mar 2017 11:14:02 +0800</pubDate>
-    <lastBuildDate>Tue, 21 Mar 2017 11:14:02 +0800</lastBuildDate>
+      <pubDate>Tue, 21 Mar 2017 12:04:22 +0800</pubDate>
+    <lastBuildDate>Tue, 21 Mar 2017 12:04:22 +0800</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -104,7 +104,12 @@
     
       <item>
         <title>E血液病-医生端-基础篇</title>
-        <description>&lt;blockquote&gt;
+        <description>&lt;style&gt;
+.fr {color:red}
+.fdg {color: #333} 
+&lt;/style&gt;
+
+&lt;blockquote&gt;
   &lt;p&gt;目录&lt;/p&gt;
   &lt;ol&gt;
     &lt;li&gt;如何成为我们平台医生？&lt;/li&gt;
@@ -116,17 +121,32 @@
 &lt;pre&gt;&lt;code class=&quot;language-flow&quot;&gt;st=&amp;gt;start: app注册医生
 op=&amp;gt;operation: app等待crm审核通过
 cond=&amp;gt;condition: crm审核医生信息
-sub=&amp;gt;subroutine: 补充资料
-e=&amp;gt;end: 允许登录app，成为医生
+op2=&amp;gt;operation: 允许登录app，成为医生
+sub=&amp;gt;subroutine: app补充资料(可选）
+e=&amp;gt;end: 完成注册医生
 e2=&amp;gt;end: 请重新注册
 
 st-&amp;gt;op-&amp;gt;cond
-cond(yes)-&amp;gt;sub-&amp;gt;e
+cond(yes)-&amp;gt;op2-&amp;gt;sub-&amp;gt;e
 cond(no)-&amp;gt;e2
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;注：如果需要将该医生的类型提升到专家级别，请&lt;/p&gt;
+&lt;div class=&quot;album&quot;&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170321/doctor_register.jpeg&quot; /&gt;
+      &lt;figcaption&gt;app注册医生&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170321/doctor_register_2.jpeg&quot; /&gt;
+      &lt;figcaption&gt;app等待crm审核通过&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170321/crm_auth_doctor.png&quot; /&gt;
+      &lt;figcaption&gt;crm审核医生信息&lt;/figcaption&gt;
+   &lt;/figure&gt;
+&lt;/div&gt;
 
+&lt;p&gt;注：如果需要将该医生的类型提升到专家级别(如病例专家、病理专家），请&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&quot;language-flow&quot;&gt;st=&amp;gt;start: 登录crm
 op=&amp;gt;operation: 选择医生管理-注册医生
 op2=&amp;gt;operation: 找到对应医生，点击编辑
@@ -137,6 +157,28 @@ st(right)-&amp;gt;op(right)-&amp;gt;op2(right)-&amp;gt;op3(right)-&amp;gt;e
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;h4 id=&quot;如何进行患者管理患者管理前提是什么&quot;&gt;如何进行患者管理，患者管理前提是什么？&lt;/h4&gt;
+
+&lt;h6 id=&quot;患者管理的前提&quot;&gt;患者管理的前提:&lt;/h6&gt;
+&lt;blockquote&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;患者通过 &lt;strong&gt;&lt;span class=&quot;fr&quot;&gt;创建病例关联医生后&lt;/span&gt;&lt;/strong&gt; 才会在 &lt;strong&gt;&lt;span class=&quot;fr&quot;&gt;医生的患者管理&lt;/span&gt;&lt;/strong&gt; 列表中出现&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h6 id=&quot;患者管理入口&quot;&gt;患者管理入口&lt;/h6&gt;
+
+&lt;h6 id=&quot;患者管理功能&quot;&gt;患者管理功能&lt;/h6&gt;
+&lt;blockquote&gt;
+  &lt;ol&gt;
+    &lt;li&gt;基本信息&lt;/li&gt;
+    &lt;li&gt;病例资料&lt;/li&gt;
+    &lt;li&gt;病例病程记录&lt;/li&gt;
+    &lt;li&gt;看病记录&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;此致-医生端第一部分培训完&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Mar 2017 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/blog/work/app-doctor-base-train</link>
