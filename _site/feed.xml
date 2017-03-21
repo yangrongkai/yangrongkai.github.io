@@ -5,8 +5,8 @@
     <description>Burgess Yang of resource</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-      <pubDate>Tue, 21 Mar 2017 15:52:55 +0800</pubDate>
-    <lastBuildDate>Tue, 21 Mar 2017 15:52:55 +0800</lastBuildDate>
+      <pubDate>Tue, 21 Mar 2017 17:54:34 +0800</pubDate>
+    <lastBuildDate>Tue, 21 Mar 2017 17:54:34 +0800</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -106,18 +106,30 @@
         <title>E血液病-医生端-基础篇</title>
         <description>&lt;style&gt;
 .fr {color:red}
-.fdg {color: #333} 
+.fg {color:green}
+.fdg {color: #666} 
 &lt;/style&gt;
 
+&lt;hr /&gt;
+
 &lt;blockquote&gt;
-  &lt;p&gt;目录&lt;/p&gt;
+  &lt;h6 id=&quot;培训大纲&quot;&gt;培训大纲&lt;/h6&gt;
   &lt;ol&gt;
-    &lt;li&gt;如何成为我们平台医生？&lt;/li&gt;
-    &lt;li&gt;如何进行患者管理，患者管理前提是什么？&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;基础篇培训&lt;/strong&gt; (&lt;strong&gt;&lt;span class=&quot;fr&quot;&gt;本次主讲&lt;/span&gt;&lt;/strong&gt;)
+      &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;如何成为我们平台医生？&lt;/strong&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;如何进行患者管理，患者管理前提是什么？&lt;/strong&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;会诊篇培训&lt;/li&gt;
+    &lt;li&gt;检测篇培训&lt;/li&gt;
+    &lt;li&gt;协作组篇培训&lt;/li&gt;
   &lt;/ol&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&quot;如何成为我们平台医生&quot;&gt;如何成为我们平台医生？&lt;/h4&gt;
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;如何成为我们平台医生&quot;&gt;如何成为我们平台医生？&lt;/h5&gt;
 &lt;pre&gt;&lt;code class=&quot;language-flow&quot;&gt;st=&amp;gt;start: app注册医生
 op=&amp;gt;operation: app等待crm审核通过
 cond=&amp;gt;condition: crm审核医生信息
@@ -130,6 +142,12 @@ st-&amp;gt;op-&amp;gt;cond
 cond(yes)-&amp;gt;op2-&amp;gt;sub-&amp;gt;e
 cond(no)-&amp;gt;e2
 &lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&quot;tip&quot;&gt;&lt;pre class=&quot;fdg&quot; style=&quot;padding:0px;border:none;&quot;&gt;
+   1. 短信验证码有效期为3分钟
+   2. 如果审核被crm拒绝后，则会清楚注册信息，发短信通知用户。
+   3. 一旦被审核拒绝的医生，可以再次申请。
+   4. 在审核通过前，当下医生不能进入app中进行相关操作。
+&lt;/pre&gt;&lt;/div&gt;
 
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
@@ -154,7 +172,10 @@ cond(no)-&amp;gt;e2
    &lt;/figure&gt;
 &lt;/div&gt;
 
-&lt;p&gt;注：如果需要将该医生的类型提升到专家级别(如病例专家、病理专家），请&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;span class=&quot;fr&quot;&gt; &lt;strong&gt;注：&lt;/strong&gt;&lt;/span&gt; &lt;span class=&quot;fg&quot;&gt; 如果需要将该医生的类型提升到专家级别(如 &lt;strong&gt;病例专家&lt;/strong&gt; 、 &lt;strong&gt;病理专家&lt;/strong&gt;），请&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;pre&gt;&lt;code class=&quot;language-flow&quot;&gt;st=&amp;gt;start: 登录crm
 op=&amp;gt;operation: 选择医生管理-注册医生
 op2=&amp;gt;operation: 找到对应医生，点击编辑
@@ -163,6 +184,7 @@ e=&amp;gt;end: 完成
 
 st(right)-&amp;gt;op(right)-&amp;gt;op2(right)-&amp;gt;op3(right)-&amp;gt;e
 &lt;/code&gt;&lt;/pre&gt;
+
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
       &lt;img src=&quot;http://localhost:4000/media/img/20170321/edit_doctor_type.png&quot; /&gt;
@@ -174,9 +196,11 @@ st(right)-&amp;gt;op(right)-&amp;gt;op2(right)-&amp;gt;op3(right)-&amp;gt;e
    &lt;/figure&gt;
 &lt;/div&gt;
 
-&lt;h4 id=&quot;如何进行患者管理患者管理前提是什么&quot;&gt;如何进行患者管理，患者管理前提是什么？&lt;/h4&gt;
+&lt;hr /&gt;
 
-&lt;h6 id=&quot;患者管理的前提&quot;&gt;患者管理的前提:&lt;/h6&gt;
+&lt;h5 id=&quot;如何进行患者管理患者管理前提是什么&quot;&gt;如何进行患者管理，患者管理前提是什么？&lt;/h5&gt;
+
+&lt;h6 id=&quot;患者管理前提&quot;&gt;患者管理前提&lt;/h6&gt;
 &lt;blockquote&gt;
 
   &lt;ul&gt;
@@ -187,7 +211,7 @@ st(right)-&amp;gt;op(right)-&amp;gt;op2(right)-&amp;gt;op3(right)-&amp;gt;e
 &lt;h6 id=&quot;患者管理入口&quot;&gt;患者管理入口&lt;/h6&gt;
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170321/personal_center.jpeg&quot; /&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170321/patent_nav.png&quot; /&gt;
       &lt;figcaption&gt;个人中心&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
@@ -197,23 +221,38 @@ st(right)-&amp;gt;op(right)-&amp;gt;op2(right)-&amp;gt;op3(right)-&amp;gt;e
 &lt;/div&gt;
 
 &lt;h6 id=&quot;患者管理功能&quot;&gt;患者管理功能&lt;/h6&gt;
-&lt;ol&gt;
-  &lt;li&gt;患者基本信息&lt;/li&gt;
-  &lt;li&gt;患者病例资料&lt;/li&gt;
-  &lt;li&gt;医生病例病程记录&lt;/li&gt;
-  &lt;li&gt;患者看病记录&lt;/li&gt;
-&lt;/ol&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;a. 患者基本信息&lt;br /&gt;
+b. 患者病例资料&lt;br /&gt;
+c. 医生病例病程记录&lt;br /&gt;
+d. 患者看病记录&lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;患者基本信息&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;a. 患者基本信息&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;span class=&quot;fg&quot;&gt;展现患者的基本信息, 保证患者的app填写的个人资料同步到医生端（支持电话功能）&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;div class=&quot;album&quot;&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170321/base_nav.png&quot; /&gt;
+      &lt;figcaption&gt;基本信息&lt;/figcaption&gt;
+   &lt;/figure&gt;
    &lt;figure&gt;
       &lt;img src=&quot;http://localhost:4000/media/img/20170321/base_information.jpeg&quot; /&gt;
       &lt;figcaption&gt;基本信息&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
 
-&lt;p&gt;患者病例资料&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;b. 患者病例资料&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;span class=&quot;fg&quot;&gt;展现该患者允许当前医生看的所有病例&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;fg&quot;&gt;&lt;strong&gt;当前默认规则为：&lt;/strong&gt;&lt;span class=&quot;fr&quot;&gt;后一个医生可以看到当前时间点前的所有患者病例。&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;div class=&quot;album&quot;&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170321/case_nav.png&quot; /&gt;
+      &lt;figcaption&gt;患者病例列表&lt;/figcaption&gt;
+   &lt;/figure&gt;
    &lt;figure&gt;
       &lt;img src=&quot;http://localhost:4000/media/img/20170321/case_list.jpeg&quot; /&gt;
       &lt;figcaption&gt;患者病例列表&lt;/figcaption&gt;
@@ -224,8 +263,17 @@ st(right)-&amp;gt;op(right)-&amp;gt;op2(right)-&amp;gt;op3(right)-&amp;gt;e
    &lt;/figure&gt;
 &lt;/div&gt;
 
-&lt;p&gt;病例病程记录&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;c. 病例病程记录&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;span class=&quot;fg&quot;&gt;医生在治病过程中积累的患者重要信息（&lt;span class=&quot;fr&quot;&gt;仅医生自己可看&lt;/span&gt;）&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;fg&quot;&gt; 支持排序，添加记录，删除记录功能&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;div class=&quot;album&quot;&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170321/case_process_nav.png&quot; /&gt;
+      &lt;figcaption&gt;病例病程记录&lt;/figcaption&gt;
+   &lt;/figure&gt;
    &lt;figure&gt;
       &lt;img src=&quot;http://localhost:4000/media/img/20170321/case_process_record.jpeg&quot; /&gt;
       &lt;figcaption&gt;病例病程记录&lt;/figcaption&gt;
@@ -236,8 +284,16 @@ st(right)-&amp;gt;op(right)-&amp;gt;op2(right)-&amp;gt;op3(right)-&amp;gt;e
    &lt;/figure&gt;
 &lt;/div&gt;
 
-&lt;p&gt;患者看病记录&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;d. 患者看病记录&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;span class=&quot;fg&quot;&gt;患者在治疗过程中所产生的患者及医生看病信息（&lt;span class=&quot;fr&quot;&gt;患者及医生都有权查看，发布信息&lt;/span&gt;）&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;fg&quot;&gt; 支持排序，导入病例病情记录，添加记录，删除记录功能&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;div class=&quot;album&quot;&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170321/treat_nav.png&quot; /&gt;
+      &lt;figcaption&gt;患者看病记录&lt;/figcaption&gt;
+   &lt;/figure&gt;
    &lt;figure&gt;
       &lt;img src=&quot;http://localhost:4000/media/img/20170321/treat_log.jpeg&quot; /&gt;
       &lt;figcaption&gt;患者看病记录&lt;/figcaption&gt;
@@ -248,13 +304,15 @@ st(right)-&amp;gt;op(right)-&amp;gt;op2(right)-&amp;gt;op3(right)-&amp;gt;e
    &lt;/figure&gt;
 &lt;/div&gt;
 
-&lt;p&gt;此致-医生端第一部分培训完&lt;/p&gt;
+&lt;h6 id=&quot;此致---医生端第一部分培训完&quot;&gt;&lt;strong&gt;&lt;em&gt;此致 - 医生端第一部分培训完&lt;/em&gt;&lt;/strong&gt;&lt;/h6&gt;
 </description>
         <pubDate>Thu, 16 Mar 2017 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/blog/work/app-doctor-base-train</link>
         <guid isPermaLink="true">http://localhost:4000/blog/work/app-doctor-base-train</guid>
         
-        <category>E血液病-医生端-基础篇</category>
+        <category>研发</category>
+        
+        <category>E血液病-医生端-基础篇培训</category>
         
         
         <category>Work</category>
