@@ -5,8 +5,8 @@
     <description>Burgess Yang of resource</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-      <pubDate>Tue, 21 Mar 2017 17:54:34 +0800</pubDate>
-    <lastBuildDate>Tue, 21 Mar 2017 17:54:34 +0800</lastBuildDate>
+      <pubDate>Tue, 21 Mar 2017 18:09:44 +0800</pubDate>
+    <lastBuildDate>Tue, 21 Mar 2017 18:09:44 +0800</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -108,6 +108,8 @@
 .fr {color:red}
 .fg {color:green}
 .fdg {color: #666} 
+
+.tc {text-align:center}
 &lt;/style&gt;
 
 &lt;hr /&gt;
@@ -304,7 +306,9 @@ d. 患者看病记录&lt;br /&gt;&lt;/p&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
 
-&lt;h6 id=&quot;此致---医生端第一部分培训完&quot;&gt;&lt;strong&gt;&lt;em&gt;此致 - 医生端第一部分培训完&lt;/em&gt;&lt;/strong&gt;&lt;/h6&gt;
+&lt;div class=&quot;tc&quot; style=&quot;margin-top:80px;&quot;&gt;
+ &lt;h5&gt;此致 - 医生端第一部分培训完&lt;/h5&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Thu, 16 Mar 2017 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/blog/work/app-doctor-base-train</link>

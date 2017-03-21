@@ -12,6 +12,8 @@ tags:      研发 E血液病-医生端-基础篇培训
 .fr {color:red}
 .fg {color:green}
 .fdg {color: #666} 
+
+.tc {text-align:center}
 </style>
 
 --- 
@@ -188,4 +190,6 @@ st(right)->op(right)->op2(right)->op3(right)->e
    </figure>
 </div>
 
-###### ***此致 - 医生端第一部分培训完***
+<div class="tc" style="margin-top:80px;">
+ <h5>此致 - 医生端第一部分培训完</h5>
+</div>
