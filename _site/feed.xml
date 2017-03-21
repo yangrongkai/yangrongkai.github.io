@@ -5,8 +5,8 @@
     <description>Burgess Yang of resource</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-      <pubDate>Tue, 21 Mar 2017 12:04:22 +0800</pubDate>
-    <lastBuildDate>Tue, 21 Mar 2017 12:04:22 +0800</lastBuildDate>
+      <pubDate>Tue, 21 Mar 2017 15:52:55 +0800</pubDate>
+    <lastBuildDate>Tue, 21 Mar 2017 15:52:55 +0800</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -144,6 +144,14 @@ cond(no)-&amp;gt;e2
       &lt;img src=&quot;http://localhost:4000/media/img/20170321/crm_auth_doctor.png&quot; /&gt;
       &lt;figcaption&gt;crm审核医生信息&lt;/figcaption&gt;
    &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170321/fill_information.jpeg&quot; /&gt;
+      &lt;figcaption&gt;app补充资料（可选）&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170321/fill_information_2.jpeg&quot; /&gt;
+      &lt;figcaption&gt;app补充资料（可选）&lt;/figcaption&gt;
+   &lt;/figure&gt;
 &lt;/div&gt;
 
 &lt;p&gt;注：如果需要将该医生的类型提升到专家级别(如病例专家、病理专家），请&lt;/p&gt;
@@ -155,6 +163,16 @@ e=&amp;gt;end: 完成
 
 st(right)-&amp;gt;op(right)-&amp;gt;op2(right)-&amp;gt;op3(right)-&amp;gt;e
 &lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&quot;album&quot;&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170321/edit_doctor_type.png&quot; /&gt;
+      &lt;figcaption&gt;选择医生管理，注册医生，并点击编辑&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170321/edit_doctor_type_2.png&quot; /&gt;
+      &lt;figcaption&gt;修改医生类型&lt;/figcaption&gt;
+   &lt;/figure&gt;
+&lt;/div&gt;
 
 &lt;h4 id=&quot;如何进行患者管理患者管理前提是什么&quot;&gt;如何进行患者管理，患者管理前提是什么？&lt;/h4&gt;
 
@@ -167,16 +185,68 @@ st(right)-&amp;gt;op(right)-&amp;gt;op2(right)-&amp;gt;op3(right)-&amp;gt;e
 &lt;/blockquote&gt;
 
 &lt;h6 id=&quot;患者管理入口&quot;&gt;患者管理入口&lt;/h6&gt;
+&lt;div class=&quot;album&quot;&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170321/personal_center.jpeg&quot; /&gt;
+      &lt;figcaption&gt;个人中心&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170321/patient_infromation.jpeg&quot; /&gt;
+      &lt;figcaption&gt;患者管理&lt;/figcaption&gt;
+   &lt;/figure&gt;
+&lt;/div&gt;
 
 &lt;h6 id=&quot;患者管理功能&quot;&gt;患者管理功能&lt;/h6&gt;
-&lt;blockquote&gt;
-  &lt;ol&gt;
-    &lt;li&gt;基本信息&lt;/li&gt;
-    &lt;li&gt;病例资料&lt;/li&gt;
-    &lt;li&gt;病例病程记录&lt;/li&gt;
-    &lt;li&gt;看病记录&lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/blockquote&gt;
+&lt;ol&gt;
+  &lt;li&gt;患者基本信息&lt;/li&gt;
+  &lt;li&gt;患者病例资料&lt;/li&gt;
+  &lt;li&gt;医生病例病程记录&lt;/li&gt;
+  &lt;li&gt;患者看病记录&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;患者基本信息&lt;/p&gt;
+&lt;div class=&quot;album&quot;&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170321/base_information.jpeg&quot; /&gt;
+      &lt;figcaption&gt;基本信息&lt;/figcaption&gt;
+   &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;患者病例资料&lt;/p&gt;
+&lt;div class=&quot;album&quot;&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170321/case_list.jpeg&quot; /&gt;
+      &lt;figcaption&gt;患者病例列表&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170321/case_detail.jpeg&quot; /&gt;
+      &lt;figcaption&gt;患者病例详情&lt;/figcaption&gt;
+   &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;病例病程记录&lt;/p&gt;
+&lt;div class=&quot;album&quot;&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170321/case_process_record.jpeg&quot; /&gt;
+      &lt;figcaption&gt;病例病程记录&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170321/add_record.jpeg&quot; /&gt;
+      &lt;figcaption&gt;添加病例病程记录&lt;/figcaption&gt;
+   &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;患者看病记录&lt;/p&gt;
+&lt;div class=&quot;album&quot;&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170321/treat_log.jpeg&quot; /&gt;
+      &lt;figcaption&gt;患者看病记录&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170321/add_record.jpeg&quot; /&gt;
+      &lt;figcaption&gt;添加看病记录&lt;/figcaption&gt;
+   &lt;/figure&gt;
+&lt;/div&gt;
 
 &lt;p&gt;此致-医生端第一部分培训完&lt;/p&gt;
 </description>

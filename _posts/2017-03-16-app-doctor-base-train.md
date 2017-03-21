@@ -45,6 +45,14 @@ cond(no)->e2
       <img src="{{ "/media/img/20170321/crm_auth_doctor.png" | absolute_url }}" />
       <figcaption>crm审核医生信息</figcaption>
    </figure>
+   <figure>
+      <img src="{{ "/media/img/20170321/fill_information.jpeg" | absolute_url }}" />
+      <figcaption>app补充资料（可选）</figcaption>
+   </figure>
+   <figure>
+      <img src="{{ "/media/img/20170321/fill_information_2.jpeg" | absolute_url }}" />
+      <figcaption>app补充资料（可选）</figcaption>
+   </figure>
 </div>
 
 注：如果需要将该医生的类型提升到专家级别(如病例专家、病理专家），请
@@ -57,6 +65,17 @@ e=>end: 完成
 
 st(right)->op(right)->op2(right)->op3(right)->e
 ```
+<div class="album">
+   <figure>
+      <img src="{{ "/media/img/20170321/edit_doctor_type.png" | absolute_url }}" />
+      <figcaption>选择医生管理，注册医生，并点击编辑</figcaption>
+   </figure>
+   <figure>
+      <img src="{{ "/media/img/20170321/edit_doctor_type_2.png" | absolute_url }}" />
+      <figcaption>修改医生类型</figcaption>
+   </figure>
+</div>
+
 
 #### 如何进行患者管理，患者管理前提是什么？
 
@@ -65,14 +84,65 @@ st(right)->op(right)->op2(right)->op3(right)->e
 > * 患者通过 **<span class="fr">创建病例关联医生后</span>** 才会在 **<span class="fr">医生的患者管理</span>** 列表中出现
 
 ###### 患者管理入口
-
-
+<div class="album">
+   <figure>
+      <img src="{{ "/media/img/20170321/personal_center.jpeg" | absolute_url }}" />
+      <figcaption>个人中心</figcaption>
+   </figure>
+   <figure>
+      <img src="{{ "/media/img/20170321/patient_infromation.jpeg" | absolute_url }}" />
+      <figcaption>患者管理</figcaption>
+   </figure>
+</div>
 
 ###### 患者管理功能
-> 1. 基本信息
-> 2. 病例资料
-> 3. 病例病程记录
-> 4. 看病记录
+1. 患者基本信息
+2. 患者病例资料
+3. 医生病例病程记录
+4. 患者看病记录
 
+患者基本信息 
+<div class="album">
+   <figure>
+      <img src="{{ "/media/img/20170321/base_information.jpeg" | absolute_url }}" />
+      <figcaption>基本信息</figcaption>
+   </figure>
+</div>
+
+患者病例资料 
+<div class="album">
+   <figure>
+      <img src="{{ "/media/img/20170321/case_list.jpeg" | absolute_url }}" />
+      <figcaption>患者病例列表</figcaption>
+   </figure>
+   <figure>
+      <img src="{{ "/media/img/20170321/case_detail.jpeg" | absolute_url }}" />
+      <figcaption>患者病例详情</figcaption>
+   </figure>
+</div>
+
+病例病程记录 
+<div class="album">
+   <figure>
+      <img src="{{ "/media/img/20170321/case_process_record.jpeg" | absolute_url }}" />
+      <figcaption>病例病程记录</figcaption>
+   </figure>
+   <figure>
+      <img src="{{ "/media/img/20170321/add_record.jpeg" | absolute_url }}" />
+      <figcaption>添加病例病程记录</figcaption>
+   </figure>
+</div>
+
+患者看病记录 
+<div class="album">
+   <figure>
+      <img src="{{ "/media/img/20170321/treat_log.jpeg" | absolute_url }}" />
+      <figcaption>患者看病记录</figcaption>
+   </figure>
+   <figure>
+      <img src="{{ "/media/img/20170321/add_record.jpeg" | absolute_url }}" />
+      <figcaption>添加看病记录</figcaption>
+   </figure>
+</div>
 
 此致-医生端第一部分培训完
