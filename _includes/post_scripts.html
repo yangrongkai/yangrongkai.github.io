@@ -16,9 +16,10 @@ var config = {
 <script>
 $(document).ready(function(){
     var e_list = $("code.language-flow");
+    var mapping = {};
     for(var i = 0 , l = e_list.length ; i < l ; i++){
 	var div_name = 'language-flow-' + i;
-        var e = $(e_list[0]);
+        var e = $(e_list[i]);
 	var code = e.text();
 	var ep = e.parent();
 	e.remove()

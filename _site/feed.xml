@@ -5,35 +5,97 @@
     <description>Burgess Yang of resource</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-      <pubDate>Fri, 17 Mar 2017 00:31:57 +0800</pubDate>
-    <lastBuildDate>Fri, 17 Mar 2017 00:31:57 +0800</lastBuildDate>
+      <pubDate>Tue, 21 Mar 2017 11:14:02 +0800</pubDate>
+    <lastBuildDate>Tue, 21 Mar 2017 11:14:02 +0800</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
-        <title>第一季度会议报告</title>
-        <description>&lt;pre&gt;&lt;code class=&quot;language-flow&quot;&gt;st=&amp;gt;start: Start|past:&amp;gt;http://www.google.com[blank]
-e=&amp;gt;end: End:&amp;gt;http://www.google.com
-op1=&amp;gt;operation: My Operation|past
-op2=&amp;gt;operation: Stuff|current
-sub1=&amp;gt;subroutine: My Subroutine|invalid
-cond=&amp;gt;condition: Yes
-or No?|approved:&amp;gt;http://www.google.com
-c2=&amp;gt;condition: Good idea|rejected
-io=&amp;gt;inputoutput: catch something...|request
+        <title>第一季度研发会议报告</title>
+        <description>&lt;h4 id=&quot;成果&quot;&gt;成果：&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;工作成果&lt;/strong&gt; ：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;app医生端协作组改版工作完成&lt;/li&gt;
+  &lt;li&gt;app医生端添加病例病程记录&lt;/li&gt;
+  &lt;li&gt;app患者端做了整体UI修改&lt;/li&gt;
+  &lt;li&gt;app患者端提供了药品管理模块&lt;/li&gt;
+  &lt;li&gt;crm接入了第三方监测平台&lt;/li&gt;
+  &lt;li&gt;crm新增了药品管理模块, 广告、消息、科普管理模块, 现金流统计模块&lt;/li&gt;
+  &lt;li&gt;提供了一个新的供应商端管理平台(即将接入）&lt;/li&gt;
+&lt;/ul&gt;
 
-st-&amp;gt;op1(right)-&amp;gt;cond
-cond(yes, right)-&amp;gt;c2
-cond(no)-&amp;gt;sub1(left)-&amp;gt;op1
-c2(yes)-&amp;gt;io-&amp;gt;e
-c2(no)-&amp;gt;op2-&amp;gt;e
+&lt;p&gt;&lt;strong&gt;注&lt;/strong&gt;：UI、BUG及小功能开发不计其数，暂不纳入成果列表中。&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;团队成果&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;培养了4个新人，并且得到转正机会，会成为后期研发的中流砥柱&lt;/li&gt;
+  &lt;li&gt;创建了研发的基础规章制度，形成自律研发&lt;/li&gt;
+  &lt;li&gt;培养了两个管理人员，并初见成效&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;不足&quot;&gt;不足&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;团建有待提高，产品思考及应用漏洞百出&lt;/li&gt;
+  &lt;li&gt;团队效率提升单纯的依托于加班，无法通过其他方式提高生产力。&lt;/li&gt;
+  &lt;li&gt;团队工作流程需要进行规整及强化。&lt;/li&gt;
+  &lt;li&gt;部分人员存有一定的心理倦怠感未能得到妥善处理。&lt;/li&gt;
+  &lt;li&gt;整体研发研发等级需要提升&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;现状&quot;&gt;现状&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;人员配比：2后端+3前端+1ios+1android&lt;/li&gt;
+  &lt;li&gt;微信端停滞，crm、供应商及app持续开发&lt;/li&gt;
+  &lt;li&gt;当下进行供应商端接入&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;附&quot;&gt;附&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;工作优先级&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;会诊复诊开发&lt;/li&gt;
+  &lt;li&gt;医生端改版&lt;/li&gt;
+  &lt;li&gt;支付商城模块开发&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;商业计划书&quot;&gt;商业计划书&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;你的好的idea是什么？&lt;/li&gt;
+  &lt;li&gt;你为什么说这个idea是具有商业价值的？（趋势）&lt;/li&gt;
+  &lt;li&gt;你需要一个什么样的计划，阶段来支撑、实现这个商业价值？&lt;/li&gt;
+  &lt;li&gt;你当下阶段缺什么？我能得到什么？&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;时刻坚定创业的方向及决心
+时刻清楚方向的价值
+时刻存有应对并解决问题的策略
+时刻知悉创业在不同阶段的不足及优势。
 &lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;协作问题&quot;&gt;协作问题&lt;/h4&gt;
+&lt;p&gt;团队问题&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;沟通问题（减少传递沟通，部分信息提供广播沟通，部门间的沟通太差）&lt;/li&gt;
+  &lt;li&gt;规矩、规矩&lt;/li&gt;
+  &lt;li&gt;效能问题（知识、技术、技能、工具）&lt;/li&gt;
+  &lt;li&gt;激励人员（政委、军事指战员）&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;公司问题&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;品牌，品牌永远第一位&lt;/li&gt;
+  &lt;li&gt;存有断层, 需要有串联人员&lt;/li&gt;
+  &lt;li&gt;指挥棒及阶段性胜利&lt;/li&gt;
+  &lt;li&gt;新鲜血液&lt;/li&gt;
+&lt;/ol&gt;
 </description>
         <pubDate>Thu, 16 Mar 2017 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/blog/report/first-quirter-report</link>
         <guid isPermaLink="true">http://localhost:4000/blog/report/first-quirter-report</guid>
         
-        <category>第一季度会议报告</category>
+        <category>研发团队汇报(2017-01-01</category>
+        
+        <category>~</category>
+        
+        <category>2017-03-17)</category>
         
         
         <category>Report</category>
@@ -42,13 +104,45 @@ c2(no)-&amp;gt;op2-&amp;gt;e
     
       <item>
         <title>E血液病-医生端-基础篇</title>
-        <description>&lt;p&gt;this is tesk&lt;/p&gt;
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;目录&lt;/p&gt;
+  &lt;ol&gt;
+    &lt;li&gt;如何成为我们平台医生？&lt;/li&gt;
+    &lt;li&gt;如何进行患者管理，患者管理前提是什么？&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;如何成为我们平台医生&quot;&gt;如何成为我们平台医生？&lt;/h4&gt;
+&lt;pre&gt;&lt;code class=&quot;language-flow&quot;&gt;st=&amp;gt;start: app注册医生
+op=&amp;gt;operation: app等待crm审核通过
+cond=&amp;gt;condition: crm审核医生信息
+sub=&amp;gt;subroutine: 补充资料
+e=&amp;gt;end: 允许登录app，成为医生
+e2=&amp;gt;end: 请重新注册
+
+st-&amp;gt;op-&amp;gt;cond
+cond(yes)-&amp;gt;sub-&amp;gt;e
+cond(no)-&amp;gt;e2
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;注：如果需要将该医生的类型提升到专家级别，请&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-flow&quot;&gt;st=&amp;gt;start: 登录crm
+op=&amp;gt;operation: 选择医生管理-注册医生
+op2=&amp;gt;operation: 找到对应医生，点击编辑
+op3=&amp;gt;operation: 修改医生类型
+e=&amp;gt;end: 完成
+
+st(right)-&amp;gt;op(right)-&amp;gt;op2(right)-&amp;gt;op3(right)-&amp;gt;e
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;如何进行患者管理患者管理前提是什么&quot;&gt;如何进行患者管理，患者管理前提是什么？&lt;/h4&gt;
 </description>
         <pubDate>Thu, 16 Mar 2017 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/blog/work/app-doctor-base-train</link>
         <guid isPermaLink="true">http://localhost:4000/blog/work/app-doctor-base-train</guid>
         
-        <category>E:液病-医生端-基础篇</category>
+        <category>E血液病-医生端-基础篇</category>
         
         
         <category>Work</category>
