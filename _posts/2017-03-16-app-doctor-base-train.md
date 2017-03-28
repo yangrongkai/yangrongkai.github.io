@@ -173,7 +173,7 @@ st(right)->op(right)->op2(right)->op3(right)->e
 </div>
 
 **d. 患者看病记录**
-> <span class="fg">患者在治疗过程中所产生的患者及医生看病信息（<span class="fr">患者及医生都有权查看，发布信息</span>）</span><br/>
+> <span class="fg">**患者在治疗过程中所产生的患者及医生看病信息**（<span class="fr">患者及医生都有权查看，发布信息</span>）</span><br/>
 > <span class="fg"> 支持排序，导入病例病情记录，添加记录，删除记录功能</span>
 <div class="album">
    <figure>

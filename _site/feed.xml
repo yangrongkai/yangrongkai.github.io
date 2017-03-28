@@ -5,13 +5,331 @@
     <description>Burgess Yang of resource</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-      <pubDate>Tue, 21 Mar 2017 18:09:44 +0800</pubDate>
-    <lastBuildDate>Tue, 21 Mar 2017 18:09:44 +0800</lastBuildDate>
+      <pubDate>Tue, 28 Mar 2017 12:15:10 +0800</pubDate>
+    <lastBuildDate>Tue, 28 Mar 2017 12:15:10 +0800</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
+        <title>E血液病-医生端-检测篇</title>
+        <description>&lt;style&gt;
+.fr {color:red}
+.fg {color:green}
+.fdg {color: #666} 
+
+.tc {text-align:center}
+&lt;/style&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;h6 id=&quot;培训大纲&quot;&gt;培训大纲&lt;/h6&gt;
+  &lt;ol&gt;
+    &lt;li&gt;基础篇培训&lt;/li&gt;
+    &lt;li&gt;会诊篇培训(&lt;strong&gt;&lt;span class=&quot;fr&quot;&gt;延期&lt;/span&gt;&lt;/strong&gt;)&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;检测篇培训&lt;/strong&gt; (&lt;strong&gt;&lt;span class=&quot;fr&quot;&gt;本次主讲&lt;/span&gt;&lt;/strong&gt;)
+      &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;如何在我们平台上申请检测订单？&lt;/strong&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;平台上接收到了检测订单我们该怎么做?&lt;/strong&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;如何实现供应商对接我们平台？&lt;/strong&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;协作组篇培训&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;span class=&quot;fg&quot;&gt;&lt;strong&gt;注&lt;/strong&gt;：如果未看过基础篇，请看过基础篇后，再接触下面相关内容&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h6 id=&quot;如何在我们平台上申请检测订单&quot;&gt;如何在我们平台上申请检测订单?&lt;/h6&gt;
+&lt;pre&gt;&lt;code class=&quot;language-flow&quot;&gt;st=&amp;gt;start: 医生登录app
+op1=&amp;gt;operation: 进入“发起检测”模块
+op2=&amp;gt;inputoutput: 选择检测项
+op3=&amp;gt;inputoutput: 选择患者
+e=&amp;gt;end: 完成检测申请 
+
+st(right)-&amp;gt;op1(right)-&amp;gt;op2(right)-&amp;gt;op3(right)-&amp;gt;e
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;div class=&quot;album&quot;&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/app_nav.jpeg&quot; /&gt;
+      &lt;figcaption&gt;检测申请模块&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/app_apply_detection_1.jpeg&quot; /&gt;
+      &lt;figcaption&gt;申请检测&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/app_apply_detection_2.jpeg&quot; /&gt;
+      &lt;figcaption&gt;选择项目&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/app_apply_detection_3.jpeg&quot; /&gt;
+      &lt;figcaption&gt;通过供应商选择项目&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/app_apply_detection_4.jpeg&quot; /&gt;
+      &lt;figcaption&gt;通过检测项分类选择项目&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/app_apply_detection_5.jpeg&quot; /&gt;
+      &lt;figcaption&gt;选择项目&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/app_apply_detection_6.jpeg&quot; /&gt;
+      &lt;figcaption&gt;申请检测&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/app_apply_detection_7.jpeg&quot; /&gt;
+      &lt;figcaption&gt;申请检测&lt;/figcaption&gt;
+   &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;album&quot;&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/my_nav.png&quot; /&gt;
+      &lt;figcaption&gt;我的检测记录入口&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/my_detection_list.jpeg&quot; /&gt;
+      &lt;figcaption&gt;我的检测列表&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/my_detection_1.jpeg&quot; /&gt;
+      &lt;figcaption&gt;检测订单详情&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/my_detection_2.jpeg&quot; /&gt;
+      &lt;figcaption&gt;检测订单详情&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/my_detection_report.jpeg&quot; /&gt;
+      &lt;figcaption&gt;检测报告&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/my_detection_track.jpeg&quot; /&gt;
+      &lt;figcaption&gt;检测跟踪&lt;/figcaption&gt;
+   &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;h6 id=&quot;平台上接收到了检测订单我们该怎么做&quot;&gt;平台上接收到了检测订单我们该怎么做?&lt;/h6&gt;
+&lt;pre&gt;&lt;code class=&quot;language-flow&quot;&gt;st=&amp;gt;start: 心桥人员登录crm
+op1=&amp;gt;operation: 进入“检测管理”-“医生检测” 模块
+op2=&amp;gt;operation: 搜索或查看需要关注的检测订单
+cond1=&amp;gt;condition: 是否干预
+sub=&amp;gt;subroutine: 供应商订单干预
+e=&amp;gt;end: 监控检测订单结束 
+
+st-&amp;gt;op1-&amp;gt;op2-&amp;gt;cond1
+cond1(yes)-&amp;gt;sub-&amp;gt;e
+cond1(no)-&amp;gt;e
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;div class=&quot;album&quot;&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/crm_nav.png&quot; /&gt;
+      &lt;figcaption&gt;crm医生订单入口&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/crm_intervention.png&quot; /&gt;
+      &lt;figcaption&gt;医生检测管理&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/crm_doctor_detection_detail.png&quot; /&gt;
+      &lt;figcaption&gt;供应商干预&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/crm_deal_1.png&quot; /&gt;
+      &lt;figcaption&gt;供应商订单干预-受理&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/crm_deal_2.png&quot; /&gt;
+      &lt;figcaption&gt;供应商订单干预-实验&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/crm_deal_3.png&quot; /&gt;
+      &lt;figcaption&gt;供应商订单干预-上传报告&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/crm_deal_5.png&quot; /&gt;
+      &lt;figcaption&gt;供应商订单干预-上传报告&lt;/figcaption&gt;
+   &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;span class=&quot;fg&quot;&gt;当需要干预订单操作时，则可以通过crm的“供应商检测”模块进行相关干预&lt;br /&gt;
+&lt;strong&gt;注&lt;/strong&gt;：crm只能对“自营”的供应商进行干预操作。&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h6 id=&quot;如何实现供应商对接我们平台&quot;&gt;如何实现供应商对接我们平台?&lt;/h6&gt;
+&lt;pre&gt;&lt;code class=&quot;language-flow&quot;&gt;st=&amp;gt;start: 心桥人员通过crm创建供应商账户
+op1=&amp;gt;operation: 将供应商账户发送给供应商对接人员
+op2=&amp;gt;operation: 对接人员通过账号密码登录供应商端
+op3=&amp;gt;operation: 对接人员通过“检测管理”发布检测项
+op4=&amp;gt;operation: 等待医生在app端申请检测订单
+op5=&amp;gt;operation: 接收到订单后，依次进行受理、实验、完成等步骤
+e=&amp;gt;end: 对接流程完成
+
+st-&amp;gt;op1-&amp;gt;op2-&amp;gt;op3-&amp;gt;op4-&amp;gt;op5-&amp;gt;e
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;创建供应商账号&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;album&quot;&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/crm_org_nav.png&quot; /&gt;
+      &lt;figcaption&gt;crm医生订单入口&lt;/figcaption&gt;
+   &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;登录供应商&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;album&quot;&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/org_login.png&quot; /&gt;
+      &lt;figcaption&gt;供应商登录入口&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/org_nav.png&quot; /&gt;
+      &lt;figcaption&gt;供应商首页&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/org_set.png&quot; /&gt;
+      &lt;figcaption&gt;登录信息维护&lt;/figcaption&gt;
+   &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;发布检测项目&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;album&quot;&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/deploy_project.png&quot; /&gt;
+      &lt;figcaption&gt;发布的检测列表&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/deploy_project_2.png&quot; /&gt;
+      &lt;figcaption&gt;批量操作发布信息&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/project_add.png&quot; /&gt;
+      &lt;figcaption&gt;发布新检测项&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/project_detail.png&quot; /&gt;
+      &lt;figcaption&gt;检测项详情&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/project_edit.png&quot; /&gt;
+      &lt;figcaption&gt;检测项编辑&lt;/figcaption&gt;
+   &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;处理平台收到的订单&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;album&quot;&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/order_list.png&quot; /&gt;
+      &lt;figcaption&gt;供应商订单列表&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/order_deal_1.png&quot; /&gt;
+      &lt;figcaption&gt;供应商订单-受理&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/order_deal_2.png&quot; /&gt;
+      &lt;figcaption&gt;供应商订单干预-实验&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/order_deal_3.png&quot; /&gt;
+      &lt;figcaption&gt;供应商订单干预-报告上传&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/order_deal_4.png&quot; /&gt;
+      &lt;figcaption&gt;供应商订单干预-报告查看&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/order_deal_5.png&quot; /&gt;
+      &lt;figcaption&gt;供应商订单-完成&lt;/figcaption&gt;
+   &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;附赠：供应商端客户管理&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;album&quot;&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/org_customer_order.png&quot; /&gt;
+      &lt;figcaption&gt;供应商端客户管理&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170328/customer_order_detail.png&quot; /&gt;
+      &lt;figcaption&gt;供应商端客户管理详情&lt;/figcaption&gt;
+   &lt;/figure&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 23 Mar 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/blog/work/app-doctor-consulation-train</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/work/app-doctor-consulation-train</guid>
+        
+        <category>研发</category>
+        
+        <category>E血液病-医生端-检测篇培训</category>
+        
+        
+        <category>Work</category>
+        
+      </item>
+    
+      <item>
         <title>第一季度研发会议报告</title>
-        <description>&lt;h4 id=&quot;成果&quot;&gt;成果：&lt;/h4&gt;
+        <description>&lt;p&gt;会议议程：
+1、发展门诊病历(门诊，会诊不同)
+2、同城会诊&lt;/p&gt;
+
+&lt;p&gt;小米的患者资源库&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;门诊&lt;/th&gt;
+      &lt;th&gt;会诊&lt;/th&gt;
+      &lt;th&gt;急诊&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;优点&lt;/td&gt;
+      &lt;td&gt;量大&lt;/td&gt;
+      &lt;td&gt;dsfskdfskdjf&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;缺点&lt;/td&gt;
+      &lt;td&gt;1、专业性不够，质量打折扣 2、一个新的产品线&lt;/td&gt;
+      &lt;td&gt;sdjfksdflskdfa&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;1、能抓住的抓住, 缺少平台的数据
+2、能附带的附加过来, 尽可能的引入平台数据
+3、试探性的产品不能运用平台化, 不能引进风险&lt;/p&gt;
+
+&lt;p&gt;1、湖北降价, 质量不变
+2、考虑同城会诊&lt;/p&gt;
+
+&lt;p&gt;3、复诊
+3、如何扩展用户知悉度&lt;/p&gt;
+
+&lt;p&gt;cro&lt;/p&gt;
+
+&lt;p&gt;同城一粒四百包干&lt;/p&gt;
+
+&lt;p&gt;门诊试探会诊，&lt;/p&gt;
+
+&lt;p&gt;知悉度问题&lt;/p&gt;
+
+&lt;h4 id=&quot;成果&quot;&gt;成果：&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;工作成果&lt;/strong&gt; ：&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;app医生端协作组改版工作完成&lt;/li&gt;
@@ -288,7 +606,7 @@ d. 患者看病记录&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;d. 患者看病记录&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;span class=&quot;fg&quot;&gt;患者在治疗过程中所产生的患者及医生看病信息（&lt;span class=&quot;fr&quot;&gt;患者及医生都有权查看，发布信息&lt;/span&gt;）&lt;/span&gt;&lt;br /&gt;
+  &lt;p&gt;&lt;span class=&quot;fg&quot;&gt;&lt;strong&gt;患者在治疗过程中所产生的患者及医生看病信息&lt;/strong&gt;（&lt;span class=&quot;fr&quot;&gt;患者及医生都有权查看，发布信息&lt;/span&gt;）&lt;/span&gt;&lt;br /&gt;
 &lt;span class=&quot;fg&quot;&gt; 支持排序，导入病例病情记录，添加记录，删除记录功能&lt;/span&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;div class=&quot;album&quot;&gt;
