@@ -1,17 +1,17 @@
 ---
 layout:    default
-permalink: "/report/"
+permalink: "/myblog/"
 author:    Burgess Yang
 weight:    5
-visible:   false
-menutitle: Report
-title:     Report 
-excerpt:   If you click on the link below it will render all content of the blog in one site. This can take some time!
+visible:   true
+menutitle: Blog
+title:     My Blog
+excerpt:    
 
 ---
 
 <div id="content" class="content">
-    <h3>会议报告</h3>
+    <h3>培训资料</h3>
     <ul class="category recent-posts">       
         {% for post in site.posts %}
         {% unless post.draft %}
@@ -22,7 +22,7 @@ excerpt:   If you click on the link below it will render all content of the blog
             {% assign title = post.title %}
         {% endif %}
 
-        {% if post.category == "Report" %}
+        {% if post.category == "Blog" %}
         <li>
             <div class="article">
                 <article class="article" itemscope itemtype="http://schema.org/BlogPosting">
