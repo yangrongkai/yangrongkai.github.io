@@ -3,10 +3,10 @@
   <channel>
     <title>Burgess Yang</title>
     <description>Burgess Yang of resource</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-      <pubDate>Thu, 20 Apr 2017 23:47:51 +0800</pubDate>
-    <lastBuildDate>Thu, 20 Apr 2017 23:47:51 +0800</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+      <pubDate>Thu, 20 Apr 2017 23:52:57 +0800</pubDate>
+    <lastBuildDate>Thu, 20 Apr 2017 23:52:57 +0800</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -58,8 +58,8 @@ __&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&
 
 </description>
         <pubDate>Fri, 31 Mar 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/blog/first-step-speech</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/blog/first-step-speech</guid>
+        <link>/blog/blog/first-step-speech</link>
+        <guid isPermaLink="true">/blog/blog/first-step-speech</guid>
         
         <category>高效的演讲内容准备模板</category>
         
@@ -84,13 +84,7 @@ __&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&
   &lt;h6 id=&quot;培训大纲&quot;&gt;培训大纲&lt;/h6&gt;
   &lt;ol&gt;
     &lt;li&gt;基础篇培训&lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;会诊篇培训&lt;/strong&gt; (&lt;strong&gt;&lt;span class=&quot;fr&quot;&gt;本次主讲&lt;/span&gt;&lt;/strong&gt;)
-      &lt;ul&gt;
-        &lt;li&gt;&lt;strong&gt;如何在我们平台上申请检测订单？&lt;/strong&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;平台上接收到了检测订单我们该怎么做?&lt;/strong&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;如何实现供应商对接我们平台？&lt;/strong&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;会诊篇培训&lt;/strong&gt; (&lt;strong&gt;&lt;span class=&quot;fr&quot;&gt;本次主讲&lt;/span&gt;&lt;/strong&gt;)&lt;/li&gt;
     &lt;li&gt;检测篇培训&lt;/li&gt;
     &lt;li&gt;协作组篇培训&lt;/li&gt;
   &lt;/ol&gt;
@@ -130,31 +124,31 @@ cond2(no)-&amp;gt;cl
 &lt;p&gt;&lt;strong&gt;患者操作流程&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/a_1.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/a_1.png&quot; /&gt;
       &lt;figcaption&gt;患者端会诊入口&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/a_2.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/a_2.png&quot; /&gt;
       &lt;figcaption&gt;会诊选择&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/a_3.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/a_3.png&quot; /&gt;
       &lt;figcaption&gt;填写会诊单&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/a_4.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/a_4.png&quot; /&gt;
       &lt;figcaption&gt;填写会诊单&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/a_5.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/a_5.png&quot; /&gt;
       &lt;figcaption&gt;查看会诊记录&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/a_6.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/a_6.png&quot; /&gt;
       &lt;figcaption&gt;会诊记录列表&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/a_7.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/a_7.png&quot; /&gt;
       &lt;figcaption&gt;患者会诊详情&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
@@ -162,31 +156,31 @@ cond2(no)-&amp;gt;cl
 &lt;p&gt;&lt;strong&gt;医生操作流程&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/b_1.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/b_1.png&quot; /&gt;
       &lt;figcaption&gt;医生端帮助患者完成会诊入口&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/b_2.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/b_2.png&quot; /&gt;
       &lt;figcaption&gt;未进行完成的会诊列表&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/b_3.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/b_3.png&quot; /&gt;
       &lt;figcaption&gt;未完成的会诊申请表单&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/b_4.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/b_4.png&quot; /&gt;
       &lt;figcaption&gt;补充病史资料页面&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/b_5.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/b_5.png&quot; /&gt;
       &lt;figcaption&gt;查看会诊记录入口&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/b_6.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/b_6.png&quot; /&gt;
       &lt;figcaption&gt;会诊记录列表&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/b_7.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/b_7.png&quot; /&gt;
       &lt;figcaption&gt;医生会诊详情&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
@@ -194,31 +188,31 @@ cond2(no)-&amp;gt;cl
 &lt;h5 id=&quot;专家操作流程&quot;&gt;&lt;strong&gt;专家操作流程&lt;/strong&gt;&lt;/h5&gt;
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/c_1.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/c_1.png&quot; /&gt;
       &lt;figcaption&gt;专家收到会诊入口&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/c_2.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/c_2.png&quot; /&gt;
       &lt;figcaption&gt;收到会诊列表&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/c_3.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/c_3.png&quot; /&gt;
       &lt;figcaption&gt;收到会诊详情&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/c_4.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/c_4.png&quot; /&gt;
       &lt;figcaption&gt;问诊框应用&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/c_5.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/c_5.png&quot; /&gt;
       &lt;figcaption&gt;生成问诊报告&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/c_6.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/c_6.png&quot; /&gt;
       &lt;figcaption&gt;在线生成问诊报告&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/c_7.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/c_7.png&quot; /&gt;
       &lt;figcaption&gt;问诊报告详情中展示&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
@@ -244,27 +238,27 @@ cond(no)-&amp;gt;cl
 &lt;p&gt;&lt;strong&gt;医生操作流程&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/d_1.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/d_1.png&quot; /&gt;
       &lt;figcaption&gt;医生端发起会诊入口&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/d_2.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/d_2.png&quot; /&gt;
       &lt;figcaption&gt;医生端发起会诊需要填写的表单&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/b_4.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/b_4.png&quot; /&gt;
       &lt;figcaption&gt;补充病史资料页面&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/b_5.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/b_5.png&quot; /&gt;
       &lt;figcaption&gt;查看会诊记录入口&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/b_6.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/b_6.png&quot; /&gt;
       &lt;figcaption&gt;会诊记录列表&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/b_7.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/b_7.png&quot; /&gt;
       &lt;figcaption&gt;医生会诊详情&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
@@ -272,31 +266,31 @@ cond(no)-&amp;gt;cl
 &lt;p&gt;&lt;strong&gt;专家操作流程&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/c_1.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/c_1.png&quot; /&gt;
       &lt;figcaption&gt;专家收到会诊入口&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/c_2.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/c_2.png&quot; /&gt;
       &lt;figcaption&gt;收到会诊列表&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/c_3.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/c_3.png&quot; /&gt;
       &lt;figcaption&gt;收到会诊详情&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/c_4.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/c_4.png&quot; /&gt;
       &lt;figcaption&gt;问诊框应用&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/c_5.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/c_5.png&quot; /&gt;
       &lt;figcaption&gt;生成问诊报告&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/c_6.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/c_6.png&quot; /&gt;
       &lt;figcaption&gt;在线生成问诊报告&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/c_7.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/c_7.png&quot; /&gt;
       &lt;figcaption&gt;问诊报告详情中展示&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
@@ -305,31 +299,31 @@ cond(no)-&amp;gt;cl
 &lt;h4 id=&quot;补充&quot;&gt;补充&lt;/h4&gt;
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/e_1.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/e_1.png&quot; /&gt;
       &lt;figcaption&gt;问诊框&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/e_2.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/e_2.png&quot; /&gt;
       &lt;figcaption&gt;签名版&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/e_3.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/e_3.png&quot; /&gt;
       &lt;figcaption&gt;会诊申请单（线上版）&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/e_4.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/e_4.png&quot; /&gt;
       &lt;figcaption&gt;知情同意书（线上版）&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170420/e_5.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170420/e_5.png&quot; /&gt;
       &lt;figcaption&gt;会诊报告（线上版）&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
 
 </description>
         <pubDate>Thu, 30 Mar 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/work/consultion-flowchart</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/work/consultion-flowchart</guid>
+        <link>/blog/work/consultion-flowchart</link>
+        <guid isPermaLink="true">/blog/work/consultion-flowchart</guid>
         
         <category>研发</category>
         
@@ -397,39 +391,39 @@ st(right)-&amp;gt;op1(right)-&amp;gt;op2(right)-&amp;gt;op3(right)-&amp;gt;e
 
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/app_nav.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/app_nav.jpeg&quot; /&gt;
       &lt;figcaption&gt;检测申请模块&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/app_apply_detection_1.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/app_apply_detection_1.jpeg&quot; /&gt;
       &lt;figcaption&gt;申请检测&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/app_apply_detection_2.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/app_apply_detection_2.jpeg&quot; /&gt;
       &lt;figcaption&gt;选择项目&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/app_apply_detection_3.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/app_apply_detection_3.jpeg&quot; /&gt;
       &lt;figcaption&gt;通过供应商选择项目&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/app_apply_detection_4.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/app_apply_detection_4.jpeg&quot; /&gt;
       &lt;figcaption&gt;通过检测项分类选择项目&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/app_apply_detection_5.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/app_apply_detection_5.jpeg&quot; /&gt;
       &lt;figcaption&gt;选择项目&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/detection_detail.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/detection_detail.jpeg&quot; /&gt;
       &lt;figcaption&gt;项目详情&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/app_apply_detection_6.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/app_apply_detection_6.jpeg&quot; /&gt;
       &lt;figcaption&gt;申请检测&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/app_apply_detection_7.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/app_apply_detection_7.jpeg&quot; /&gt;
       &lt;figcaption&gt;申请检测&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
@@ -437,27 +431,27 @@ st(right)-&amp;gt;op1(right)-&amp;gt;op2(right)-&amp;gt;op3(right)-&amp;gt;e
 &lt;p&gt;&lt;strong&gt;2. 医生检测记录跟踪&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/my_nav.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/my_nav.png&quot; /&gt;
       &lt;figcaption&gt;我的检测记录入口&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/my_detection_list.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/my_detection_list.jpeg&quot; /&gt;
       &lt;figcaption&gt;我的检测列表&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/my_detection_1.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/my_detection_1.jpeg&quot; /&gt;
       &lt;figcaption&gt;检测订单详情&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/my_detection_2.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/my_detection_2.jpeg&quot; /&gt;
       &lt;figcaption&gt;检测订单详情&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/my_detection_report.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/my_detection_report.jpeg&quot; /&gt;
       &lt;figcaption&gt;检测报告&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/my_detection_track.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/my_detection_track.jpeg&quot; /&gt;
       &lt;figcaption&gt;检测跟踪&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
@@ -488,15 +482,15 @@ cond1(no)-&amp;gt;e
 &lt;p&gt;&lt;strong&gt;2. crm检测订单监控&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/crm_nav.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/crm_nav.png&quot; /&gt;
       &lt;figcaption&gt;crm医生订单入口&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/crm_intervention.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/crm_intervention.png&quot; /&gt;
       &lt;figcaption&gt;医生检测管理&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/order_detail.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/order_detail.png&quot; /&gt;
       &lt;figcaption&gt;医生检测订单详情&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
@@ -529,23 +523,23 @@ cond3(no)-&amp;gt;clo-&amp;gt;e
 
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/order_detail.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/order_detail.png&quot; /&gt;
       &lt;figcaption&gt;医生检测订单详情-订单干预跳转入口&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/crm_deal_1.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/crm_deal_1.png&quot; /&gt;
       &lt;figcaption&gt;供应商订单干预-受理&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/crm_deal_2.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/crm_deal_2.png&quot; /&gt;
       &lt;figcaption&gt;供应商订单干预-实验&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/crm_deal_3.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/crm_deal_3.png&quot; /&gt;
       &lt;figcaption&gt;供应商订单干预-上传报告&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/crm_deal_5.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/crm_deal_5.png&quot; /&gt;
       &lt;figcaption&gt;供应商订单干预-上传报告&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
@@ -568,11 +562,11 @@ st-&amp;gt;op1-&amp;gt;op2-&amp;gt;op3-&amp;gt;op4-&amp;gt;op5-&amp;gt;e
 &lt;/blockquote&gt;
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/crm_org_nav.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/crm_org_nav.png&quot; /&gt;
       &lt;figcaption&gt;crm医生订单入口&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/crm_add_org.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/crm_add_org.png&quot; /&gt;
       &lt;figcaption&gt;crm添加供应商&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
@@ -583,15 +577,15 @@ st-&amp;gt;op1-&amp;gt;op2-&amp;gt;op3-&amp;gt;op4-&amp;gt;op5-&amp;gt;e
 &lt;/blockquote&gt;
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/org_login.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/org_login.png&quot; /&gt;
       &lt;figcaption&gt;供应商登录入口&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/org_nav.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/org_nav.png&quot; /&gt;
       &lt;figcaption&gt;供应商首页&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/org_set.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/org_set.png&quot; /&gt;
       &lt;figcaption&gt;登录信息维护&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
@@ -599,23 +593,23 @@ st-&amp;gt;op1-&amp;gt;op2-&amp;gt;op3-&amp;gt;op4-&amp;gt;op5-&amp;gt;e
 &lt;p&gt;&lt;strong&gt;3. 发布检测项目&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/deploy_project.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/deploy_project.png&quot; /&gt;
       &lt;figcaption&gt;发布的检测列表&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/deploy_project_2.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/deploy_project_2.png&quot; /&gt;
       &lt;figcaption&gt;批量操作发布信息&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/project_add.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/project_add.png&quot; /&gt;
       &lt;figcaption&gt;发布新检测项&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/project_detail.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/project_detail.png&quot; /&gt;
       &lt;figcaption&gt;检测项详情&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/project_edit.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/project_edit.png&quot; /&gt;
       &lt;figcaption&gt;检测项编辑&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
@@ -623,27 +617,27 @@ st-&amp;gt;op1-&amp;gt;op2-&amp;gt;op3-&amp;gt;op4-&amp;gt;op5-&amp;gt;e
 &lt;p&gt;&lt;strong&gt;4. 处理平台收到的订单&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/order_list.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/order_list.png&quot; /&gt;
       &lt;figcaption&gt;供应商订单列表&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/order_deal_1.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/order_deal_1.png&quot; /&gt;
       &lt;figcaption&gt;供应商订单-受理&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/order_deal_2.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/order_deal_2.png&quot; /&gt;
       &lt;figcaption&gt;供应商订单干预-实验&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/order_deal_3.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/order_deal_3.png&quot; /&gt;
       &lt;figcaption&gt;供应商订单干预-报告上传&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/order_deal_4.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/order_deal_4.png&quot; /&gt;
       &lt;figcaption&gt;供应商订单干预-报告查看&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/order_deal_5.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/order_deal_5.png&quot; /&gt;
       &lt;figcaption&gt;供应商订单-完成&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
@@ -651,11 +645,11 @@ st-&amp;gt;op1-&amp;gt;op2-&amp;gt;op3-&amp;gt;op4-&amp;gt;op5-&amp;gt;e
 &lt;p&gt;&lt;strong&gt;附赠：供应商端客户管理&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/org_customer_order.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/org_customer_order.png&quot; /&gt;
       &lt;figcaption&gt;供应商端客户管理&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170328/customer_order_detail.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170328/customer_order_detail.png&quot; /&gt;
       &lt;figcaption&gt;供应商端客户管理详情&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
@@ -664,8 +658,8 @@ st-&amp;gt;op1-&amp;gt;op2-&amp;gt;op3-&amp;gt;op4-&amp;gt;op5-&amp;gt;e
 
 </description>
         <pubDate>Tue, 28 Mar 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/work/app-doctor-detection-train</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/work/app-doctor-detection-train</guid>
+        <link>/blog/work/app-doctor-detection-train</link>
+        <guid isPermaLink="true">/blog/work/app-doctor-detection-train</guid>
         
         <category>研发</category>
         
@@ -804,8 +798,8 @@ st-&amp;gt;op1-&amp;gt;op2-&amp;gt;op3-&amp;gt;op4-&amp;gt;op5-&amp;gt;e
 &lt;/ol&gt;
 </description>
         <pubDate>Thu, 16 Mar 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/report/first-quirter-report</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/report/first-quirter-report</guid>
+        <link>/blog/report/first-quirter-report</link>
+        <guid isPermaLink="true">/blog/report/first-quirter-report</guid>
         
         <category>研发团队汇报(2017-01-01</category>
         
@@ -869,23 +863,23 @@ cond(no)-&amp;gt;e2
 
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170321/doctor_register.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170321/doctor_register.jpeg&quot; /&gt;
       &lt;figcaption&gt;app注册医生&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170321/doctor_register_2.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170321/doctor_register_2.jpeg&quot; /&gt;
       &lt;figcaption&gt;app等待crm审核通过&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170321/crm_auth_doctor.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170321/crm_auth_doctor.png&quot; /&gt;
       &lt;figcaption&gt;crm审核医生信息&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170321/fill_information.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170321/fill_information.jpeg&quot; /&gt;
       &lt;figcaption&gt;app补充资料（可选）&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170321/fill_information_2.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170321/fill_information_2.jpeg&quot; /&gt;
       &lt;figcaption&gt;app补充资料（可选）&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
@@ -905,11 +899,11 @@ st(right)-&amp;gt;op(right)-&amp;gt;op2(right)-&amp;gt;op3(right)-&amp;gt;e
 
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170321/edit_doctor_type.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170321/edit_doctor_type.png&quot; /&gt;
       &lt;figcaption&gt;选择医生管理，注册医生，并点击编辑&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170321/edit_doctor_type_2.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170321/edit_doctor_type_2.png&quot; /&gt;
       &lt;figcaption&gt;修改医生类型&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
@@ -929,11 +923,11 @@ st(right)-&amp;gt;op(right)-&amp;gt;op2(right)-&amp;gt;op3(right)-&amp;gt;e
 &lt;h6 id=&quot;患者管理入口&quot;&gt;患者管理入口&lt;/h6&gt;
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170321/patent_nav.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170321/patent_nav.png&quot; /&gt;
       &lt;figcaption&gt;个人中心&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170321/patient_infromation.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170321/patient_infromation.jpeg&quot; /&gt;
       &lt;figcaption&gt;患者管理&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
@@ -952,11 +946,11 @@ d. 患者看病记录&lt;br /&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170321/base_nav.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170321/base_nav.png&quot; /&gt;
       &lt;figcaption&gt;基本信息&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170321/base_information.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170321/base_information.jpeg&quot; /&gt;
       &lt;figcaption&gt;基本信息&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
@@ -968,15 +962,15 @@ d. 患者看病记录&lt;br /&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170321/case_nav.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170321/case_nav.png&quot; /&gt;
       &lt;figcaption&gt;患者病例列表&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170321/case_list.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170321/case_list.jpeg&quot; /&gt;
       &lt;figcaption&gt;患者病例列表&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170321/case_detail.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170321/case_detail.jpeg&quot; /&gt;
       &lt;figcaption&gt;患者病例详情&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
@@ -989,15 +983,15 @@ d. 患者看病记录&lt;br /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170321/case_process_nav.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170321/case_process_nav.png&quot; /&gt;
       &lt;figcaption&gt;病例病程记录&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170321/case_process_record.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170321/case_process_record.jpeg&quot; /&gt;
       &lt;figcaption&gt;病例病程记录&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170321/add_record.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170321/add_record.jpeg&quot; /&gt;
       &lt;figcaption&gt;添加病例病程记录&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
@@ -1009,15 +1003,15 @@ d. 患者看病记录&lt;br /&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170321/treat_nav.png&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170321/treat_nav.png&quot; /&gt;
       &lt;figcaption&gt;患者看病记录&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170321/treat_log.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170321/treat_log.jpeg&quot; /&gt;
       &lt;figcaption&gt;患者看病记录&lt;/figcaption&gt;
    &lt;/figure&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/20170321/add_record.jpeg&quot; /&gt;
+      &lt;img src=&quot;/media/img/20170321/add_record.jpeg&quot; /&gt;
       &lt;figcaption&gt;添加看病记录&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
@@ -1027,8 +1021,8 @@ d. 患者看病记录&lt;br /&gt;&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 16 Mar 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/work/app-doctor-base-train</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/work/app-doctor-base-train</guid>
+        <link>/blog/work/app-doctor-base-train</link>
+        <guid isPermaLink="true">/blog/work/app-doctor-base-train</guid>
         
         <category>研发</category>
         
@@ -1049,22 +1043,22 @@ If you like to see the theme in production have a look at &lt;a href=&quot;http:
 &lt;div class=&quot;album&quot;&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;http://localhost:4000/media/img/2016-06-08-Readme-front-page-previewe.jpg&quot; /&gt;
+&lt;img src=&quot;/media/img/2016-06-08-Readme-front-page-previewe.jpg&quot; /&gt;
 &lt;figcaption&gt;Frontpage&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;http://localhost:4000/media/img/2016-06-08-Readme-post-preview.jpg&quot; /&gt;
+&lt;img src=&quot;/media/img/2016-06-08-Readme-post-preview.jpg&quot; /&gt;
 &lt;figcaption&gt;Post&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;http://localhost:4000/media/img/2016-06-08-Readme-content-preview.jpg&quot; /&gt;
+&lt;img src=&quot;/media/img/2016-06-08-Readme-content-preview.jpg&quot; /&gt;
 &lt;figcaption&gt;Demo&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;http://localhost:4000/media/img/2016-06-08-Readme-about-preview.jpg&quot; /&gt;
+&lt;img src=&quot;/media/img/2016-06-08-Readme-about-preview.jpg&quot; /&gt;
 &lt;figcaption&gt;About Page&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -1104,7 +1098,7 @@ If you like to see the theme in production have a look at &lt;a href=&quot;http:
 
 &lt;h3 id=&quot;yaml-features&quot;&gt;YAML Features&lt;/h3&gt;
 
-&lt;p&gt;Following (additional) features are supported in the header (&lt;a href=&quot;https://jekyllrb.com/docs/frontmatter/&quot;&gt;YAML Front Matter&lt;/a&gt;) of each post. A detailed description can be found in the &lt;a href=&quot;http://localhost:4000/blog/features/YAML-Features&quot;&gt;YAML Custom Features post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Following (additional) features are supported in the header (&lt;a href=&quot;https://jekyllrb.com/docs/frontmatter/&quot;&gt;YAML Front Matter&lt;/a&gt;) of each post. A detailed description can be found in the &lt;a href=&quot;/blog/features/YAML-Features&quot;&gt;YAML Custom Features post&lt;/a&gt;.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;---
 title:         Example      #Page/post title
@@ -1150,8 +1144,8 @@ SOFTWARE.
 &lt;/code&gt;&lt;/pre&gt;
 </description>
         <pubDate>Wed, 08 Jun 2016 23:25:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/tutorial/Readme</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/tutorial/Readme</guid>
+        <link>/blog/tutorial/Readme</link>
+        <guid isPermaLink="true">/blog/tutorial/Readme</guid>
         
         <category>Jekyll</category>
         
@@ -1179,7 +1173,7 @@ SOFTWARE.
 &lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;div class=&quot;bg-scroll&quot; style=&quot;background-image: url('{{ &quot;/media/img/mountain1.jpg&quot; | absolute_url }}')&quot;&amp;gt;&amp;lt;/div&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;div class=&quot;bg-scroll&quot; style=&quot;background-image: url('http://localhost:4000/media/img/mountain1.jpg')&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;bg-scroll&quot; style=&quot;background-image: url('/media/img/mountain1.jpg')&quot;&gt;&lt;/div&gt;
 
 &lt;h4 id=&quot;caption-for-image&quot;&gt;Caption for Image&lt;/h4&gt;
 
@@ -1190,7 +1184,7 @@ SOFTWARE.
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;http://localhost:4000/media/img/mountain2.jpg&quot; /&gt;
+&lt;img src=&quot;/media/img/mountain2.jpg&quot; /&gt;
 &lt;figcaption&gt;A nice mountain&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -1210,13 +1204,13 @@ SOFTWARE.
 &amp;lt;/aside&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/media/img/mountain2.jpg#right&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/media/img/mountain2.jpg#right&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent accumsan ante nulla, quis pulvinar nibh tempus sed. In congue congue odio, vel ornare mauris ultrices vel. Vestibulum tristique eros at enim vulputate fringilla. Nullam non augue sit amet elit interdum tempus non ut justo.&lt;/p&gt;
 
 &lt;aside&gt;
 &lt;figure class=&quot;left&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/media/img/mountain3.jpg&quot; /&gt;
+&lt;img src=&quot;/media/img/mountain3.jpg&quot; /&gt;
 &lt;figcaption&gt;What a view!&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/aside&gt;
@@ -1239,7 +1233,7 @@ SOFTWARE.
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;figure class=&quot;large&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;http://localhost:4000/media/img/mountain2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/media/img/mountain2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;On top of the mountain!&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -1272,15 +1266,15 @@ SOFTWARE.
 
 &lt;div class=&quot;album&quot;&gt;
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/mountain1.jpg&quot; /&gt;
+      &lt;img src=&quot;/media/img/mountain1.jpg&quot; /&gt;
       &lt;figcaption&gt;Mountain and lake&lt;/figcaption&gt;
    &lt;/figure&gt;   
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/mountain2.jpg&quot; /&gt;
+      &lt;img src=&quot;/media/img/mountain2.jpg&quot; /&gt;
       &lt;figcaption&gt;On top of the mountain!&lt;/figcaption&gt;
    &lt;/figure&gt;   
    &lt;figure&gt;
-      &lt;img src=&quot;http://localhost:4000/media/img/mountain3.jpg&quot; /&gt;
+      &lt;img src=&quot;/media/img/mountain3.jpg&quot; /&gt;
       &lt;figcaption&gt;What a view&lt;/figcaption&gt;
    &lt;/figure&gt;
 &lt;/div&gt;
@@ -1341,11 +1335,11 @@ Chemicals including paint and thinners must be stored in labelled containers tha
 
 &lt;h3 id=&quot;404-page&quot;&gt;404 Page&lt;/h3&gt;
 
-&lt;p&gt;The 404 page has a fuzzy search implemented that lists urls that are similar to the entered url. Try it out: &lt;a href=&quot;http://localhost:4000/features&quot;&gt;Unknown URL&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The 404 page has a fuzzy search implemented that lists urls that are similar to the entered url. Try it out: &lt;a href=&quot;/features&quot;&gt;Unknown URL&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;json-api&quot;&gt;JSON API&lt;/h3&gt;
 
-&lt;p&gt;The theme offers a JSON API for the blog posts. You can query all blog posts via: &lt;a href=&quot;http://localhost:4000/api/posts.json&quot;&gt;&lt;code&gt;/api/posts.json&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The theme offers a JSON API for the blog posts. You can query all blog posts via: &lt;a href=&quot;/api/posts.json&quot;&gt;&lt;code&gt;/api/posts.json&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;pdf-and-powerpoint-integration&quot;&gt;PDF and PowerPoint integration&lt;/h3&gt;
 
@@ -1368,8 +1362,8 @@ Chemicals including paint and thinners must be stored in labelled containers tha
 &lt;p&gt;More formating features can be found in the &lt;a href=&quot;http://kramdown.gettalong.org/syntax.html&quot;&gt;Kramdown syntax&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 07 Jun 2016 18:10:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/tutorial/Features</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/tutorial/Features</guid>
+        <link>/blog/tutorial/Features</link>
+        <guid isPermaLink="true">/blog/tutorial/Features</guid>
         
         <category>Jekyll</category>
         
@@ -1394,7 +1388,7 @@ menutitle:         &quot;YAML Features&quot;
 ---
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;I also added a redirect to this post. If you browse to &lt;a href=&quot;http://localhost:4000/YAML-Features-Redirect&quot;&gt;YAML-Feature-Redirect&lt;/a&gt; you should be redirected to this page. This only works if you have not removed the plugins. Hint: There is a &lt;a href=&quot;https://github.com/jwillmer/jekyllDecent/issues/35&quot;&gt;redirect bug&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I also added a redirect to this post. If you browse to &lt;a href=&quot;/YAML-Features-Redirect&quot;&gt;YAML-Feature-Redirect&lt;/a&gt; you should be redirected to this page. This only works if you have not removed the plugins. Hint: There is a &lt;a href=&quot;https://github.com/jwillmer/jekyllDecent/issues/35&quot;&gt;redirect bug&lt;/a&gt;.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;---
 redirect_from:     &quot;/YAML-Features-Redirect&quot;
@@ -1460,7 +1454,7 @@ comments:       true
 ---
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;If you like to write some formula you can enable &lt;a href=&quot;https://www.mathjax.org/&quot;&gt;MathJax&lt;/a&gt;. Go to the &lt;a href=&quot;http://localhost:4000/blog/features/Features&quot;&gt;theme feature post&lt;/a&gt; to see it in action. You can find the &lt;a href=&quot;http://docs.mathjax.org/en/latest/options/tex2jax.html#configure-tex2jax&quot;&gt;preprocessing options&lt;/a&gt; in &lt;code&gt;_includes/mathjax_support.html&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;If you like to write some formula you can enable &lt;a href=&quot;https://www.mathjax.org/&quot;&gt;MathJax&lt;/a&gt;. Go to the &lt;a href=&quot;/blog/features/Features&quot;&gt;theme feature post&lt;/a&gt; to see it in action. You can find the &lt;a href=&quot;http://docs.mathjax.org/en/latest/options/tex2jax.html#configure-tex2jax&quot;&gt;preprocessing options&lt;/a&gt; in &lt;code&gt;_includes/mathjax_support.html&lt;/code&gt;.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;---        
 math:           true  
@@ -1470,8 +1464,8 @@ math:           true
 &lt;p&gt;Additional features, that can be specified, can be found in the &lt;a href=&quot;https://jekyllrb.com/docs/frontmatter/&quot;&gt;YAML Front Matter documentation&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Apr 2016 05:40:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/tutorial/YAML-Features</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/tutorial/YAML-Features</guid>
+        <link>/blog/tutorial/YAML-Features</link>
+        <guid isPermaLink="true">/blog/tutorial/YAML-Features</guid>
         
         <category>Jekyll</category>
         
@@ -1592,8 +1586,8 @@ math:           true
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 05 Mar 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/tutorial/Content</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/tutorial/Content</guid>
+        <link>/blog/tutorial/Content</link>
+        <guid isPermaLink="true">/blog/tutorial/Content</guid>
         
         <category>Jekyll</category>
         
