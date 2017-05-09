@@ -196,11 +196,6 @@ cond(no)->cl
    </figure>
 </div>
 
-<div style="width:100px;">
-    <video controls >
-        <source src="{{ "/media/video/20170509/doctor_consulation_apply.mp4 " | absolute_url }}" type="video/mp4">
-    </video>
-</div>
 
 **专家操作流程**
 <div class="album">

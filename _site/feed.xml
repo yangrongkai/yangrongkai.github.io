@@ -5,9 +5,167 @@
     <description>Burgess Yang of resource</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-      <pubDate>Tue, 09 May 2017 17:07:10 +0800</pubDate>
-    <lastBuildDate>Tue, 09 May 2017 17:07:10 +0800</lastBuildDate>
+      <pubDate>Tue, 09 May 2017 18:55:59 +0800</pubDate>
+    <lastBuildDate>Tue, 09 May 2017 18:55:59 +0800</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
+    
+      <item>
+        <title>E血液病-医生端-会诊篇培训(new)</title>
+        <description>&lt;style&gt;
+.fr {color:red}
+.fg {color:green}
+.fdg {color: #666} 
+
+.tc {text-align:center}
+
+.ul_li_line { list-style-type:none; overflow:hidden;}
+.fl { float:left;}
+
+&lt;/style&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;h6 id=&quot;培训大纲&quot;&gt;培训大纲&lt;/h6&gt;
+  &lt;ol&gt;
+    &lt;li&gt;基础篇培训&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;会诊篇培训&lt;/strong&gt; (&lt;strong&gt;&lt;span class=&quot;fr&quot;&gt;本次主讲&lt;/span&gt;&lt;/strong&gt;)&lt;/li&gt;
+    &lt;li&gt;检测篇培训&lt;/li&gt;
+    &lt;li&gt;协作组篇培训&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;tip fr&quot;&gt;
+a. 以下内容如果未看过基础篇，请看过 &lt;b&gt;基础篇&lt;/b&gt; 后，再接触下面相关内容&lt;br /&gt;
+b. 此文档匹配版本为 2017年4月20日 凌晨5点 后的发布的医生端、crm端。
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;整体流程&quot;&gt;整体流程&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;场景：患者在app端提出意向，并找医生帮忙申请&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-flow&quot;&gt;st=&amp;gt;start: 1、患者申请 + 医生配合 或 医生代患者申请
+op1=&amp;gt;operation: 2、心桥收到会诊申请，整理资料，监控数据
+op2=&amp;gt;operation: 3、专家专家针对审核过的会诊，查看资料，并编写报告
+e=&amp;gt;end: 4、会诊操作完成
+
+st-&amp;gt;op1-&amp;gt;op2-&amp;gt;e
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+&lt;h4 id=&quot;会诊申请&quot;&gt;会诊申请&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;场景一：患者在app端提出意向，并找医生帮忙申请&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div&gt;
+    &lt;ul class=&quot;ul_li_line&quot;&gt;
+        &lt;li class=&quot;fl&quot;&gt;
+            &lt;figure class=&quot;tc&quot;&gt;
+                &lt;p&gt;&lt;b&gt;患者申请流程&lt;/b&gt;&lt;/p&gt;
+                &lt;video controls=&quot;&quot;&gt;
+                    &lt;source src=&quot;http://localhost:4000/media/video/20170509/patient_apply.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+                &lt;/video&gt;
+            &lt;/figure&gt;
+        &lt;/li&gt;
+        &lt;li class=&quot;fl&quot;&gt;
+            &lt;figure class=&quot;tc&quot;&gt;
+                &lt;p&gt;&lt;b&gt;医生配合流程&lt;/b&gt;&lt;/p&gt;
+                &lt;video controls=&quot;&quot;&gt;
+                    &lt;source src=&quot;http://localhost:4000/media/video/20170509/doctor_help_apply.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+                &lt;/video&gt;
+            &lt;/figure&gt;
+        &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;场景二：患者不会使用app端，希望医生帮忙申请&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div&gt; 
+    &lt;ul class=&quot;ul_li_line&quot;&gt;
+        &lt;li class=&quot;fl&quot;&gt;
+            &lt;figure class=&quot;tc&quot;&gt;
+                &lt;p&gt;&lt;b&gt;医生代患者申请&lt;/b&gt;&lt;/p&gt;
+                &lt;video controls=&quot;&quot;&gt;
+                    &lt;source src=&quot;http://localhost:4000/media/video/20170509/doctor_apply.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+                &lt;/video&gt;
+            &lt;/figure&gt;
+        &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;心桥处理&quot;&gt;心桥处理&lt;/h4&gt;
+&lt;div&gt; 
+    &lt;ul class=&quot;ul_li_line&quot;&gt;
+        &lt;li class=&quot;fl&quot;&gt;
+            &lt;figure class=&quot;tc&quot;&gt;
+                &lt;p&gt;&lt;b&gt;心桥医疗整合、受理操作&lt;/b&gt;&lt;/p&gt;
+                &lt;img src=&quot;http://localhost:4000/media/video/20170509/crm_consulation_operation.gif&quot; /&gt;
+            &lt;/figure&gt;
+        &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;专家处理&quot;&gt;专家处理&lt;/h4&gt;
+&lt;div&gt; 
+    &lt;ul class=&quot;ul_li_line&quot;&gt;
+        &lt;li class=&quot;fl&quot;&gt;
+            &lt;figure class=&quot;tc&quot;&gt;
+                &lt;p&gt;&lt;b&gt;专家生成报告流程、受理操作&lt;/b&gt;&lt;/p&gt;
+                &lt;video controls=&quot;&quot;&gt;
+                    &lt;source src=&quot;http://localhost:4000/media/video/20170509/expert_report.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+                &lt;/video&gt;
+            &lt;/figure&gt;
+        &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;h4 id=&quot;补充&quot;&gt;补充&lt;/h4&gt;
+&lt;div class=&quot;album&quot;&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170420/e_1.png&quot; /&gt;
+      &lt;figcaption&gt;问诊框&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170420/e_2.png&quot; /&gt;
+      &lt;figcaption&gt;签名版&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170420/e_3.png&quot; /&gt;
+      &lt;figcaption&gt;会诊申请单（线上版）&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170420/e_4.png&quot; /&gt;
+      &lt;figcaption&gt;知情同意书（线上版）&lt;/figcaption&gt;
+   &lt;/figure&gt;
+   &lt;figure&gt;
+      &lt;img src=&quot;http://localhost:4000/media/img/20170420/e_5.png&quot; /&gt;
+      &lt;figcaption&gt;会诊报告（线上版）&lt;/figcaption&gt;
+   &lt;/figure&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 08 May 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/blog/work/consultion-flowchart</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/work/consultion-flowchart</guid>
+        
+        <category>研发</category>
+        
+        <category>E血液病-医生端-会诊篇培训</category>
+        
+        
+        <category>Work</category>
+        
+      </item>
     
       <item>
         <title>软件使用文档</title>
@@ -281,12 +439,6 @@ cond(no)-&amp;gt;cl
       &lt;img src=&quot;http://localhost:4000/media/img/20170420/b_7.png&quot; /&gt;
       &lt;figcaption&gt;医生会诊详情&lt;/figcaption&gt;
    &lt;/figure&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;width:100px;&quot;&gt;
-    &lt;video controls=&quot;&quot;&gt;
-        &lt;source src=&quot;http://localhost:4000/media/video/20170509/doctor_consulation_apply.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-    &lt;/video&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;专家操作流程&lt;/strong&gt;&lt;/p&gt;
@@ -1500,126 +1652,6 @@ math:           true
         <category>Features</category>
         
         <category>Explained</category>
-        
-        
-        <category>Tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>This post demonstrates post content styles</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.&lt;/p&gt;
-
-&lt;h2 id=&quot;some-great-heading-h2&quot;&gt;Some great heading (h2)&lt;/h2&gt;
-
-&lt;p&gt;Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.&lt;/p&gt;
-
-&lt;p&gt;Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
-
-&lt;h2 id=&quot;another-great-heading-h2&quot;&gt;Another great heading (h2)&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.&lt;/p&gt;
-
-&lt;h3 id=&quot;some-great-subheading-h3&quot;&gt;Some great subheading (h3)&lt;/h3&gt;
-
-&lt;p&gt;Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.&lt;/p&gt;
-
-&lt;p&gt;Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.&lt;/p&gt;
-
-&lt;h3 id=&quot;some-great-subheading-h3-1&quot;&gt;Some great subheading (h3)&lt;/h3&gt;
-
-&lt;p&gt;Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This quote will change your life. It will reveal the secrets of the universe, and all the wonders of humanity. Don’t misuse it.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.&lt;/p&gt;
-
-&lt;h3 id=&quot;some-great-subheading-h3-2&quot;&gt;Some great subheading (h3)&lt;/h3&gt;
-
-&lt;p&gt;Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;html&amp;gt;
-  &amp;lt;head&amp;gt;
-  &amp;lt;/head&amp;gt;
-  &amp;lt;body&amp;gt;
-    &amp;lt;p&amp;gt;Hello, World!&amp;lt;/p&amp;gt;
-  &amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h4 id=&quot;you-might-want-a-sub-subheading-h4&quot;&gt;You might want a sub-subheading (h4)&lt;/h4&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h4 id=&quot;but-its-probably-overkill-h4&quot;&gt;But it’s probably overkill (h4)&lt;/h4&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h2 id=&quot;specifying-some-footnotes-h2&quot;&gt;Specifying some footnotes (h2)&lt;/h2&gt;
-
-&lt;p&gt;This is text with a footnote. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;oh-hai-an-unordered-list&quot;&gt;Oh hai, an unordered list!!&lt;/h3&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;First item, yo&lt;/li&gt;
-  &lt;li&gt;Second item, dawg&lt;/li&gt;
-  &lt;li&gt;Third item, what what?!&lt;/li&gt;
-  &lt;li&gt;Fourth item, fo sheezy my neezy&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;oh-hai-an-ordered-list&quot;&gt;Oh hai, an ordered list!!&lt;/h3&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;First item, yo&lt;/li&gt;
-  &lt;li&gt;Second item, dawg&lt;/li&gt;
-  &lt;li&gt;Third item, what what?!&lt;/li&gt;
-  &lt;li&gt;Fourth item, fo sheezy my neezy&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;headings-are-cool-h2&quot;&gt;Headings are cool! (h2)&lt;/h2&gt;
-
-&lt;p&gt;Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
-
-&lt;p&gt;Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
-
-&lt;p&gt;Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Some footnote&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;Another footnote&amp;nbsp;&lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;Last footnote&amp;nbsp;&lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 05 Mar 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/tutorial/Content</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/tutorial/Content</guid>
-        
-        <category>Jekyll</category>
-        
-        <category>Content</category>
-        
-        <category>Demo</category>
         
         
         <category>Tutorial</category>
