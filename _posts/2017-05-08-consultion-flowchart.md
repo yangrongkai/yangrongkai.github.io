@@ -15,7 +15,7 @@ tags:      研发 E血液病-医生端-会诊篇培训
 
 .tc {text-align:center}
 
-.ul_li_line { list-style-type:none; overflow:hidden;}
+.ul_li_line { max-width:730px; margin:0 auto; list-style-type:none; overflow:hidden;}
 .fl { float:left;}
 
 </style>
