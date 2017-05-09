@@ -5,8 +5,8 @@
     <description>Burgess Yang of resource</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-      <pubDate>Tue, 09 May 2017 18:55:59 +0800</pubDate>
-    <lastBuildDate>Tue, 09 May 2017 18:55:59 +0800</lastBuildDate>
+      <pubDate>Tue, 09 May 2017 19:16:25 +0800</pubDate>
+    <lastBuildDate>Tue, 09 May 2017 19:16:25 +0800</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -45,9 +45,6 @@ b. 此文档匹配版本为 2017年4月20日 凌晨5点 后的发布的医生端
 &lt;hr /&gt;
 
 &lt;h4 id=&quot;整体流程&quot;&gt;整体流程&lt;/h4&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;场景：患者在app端提出意向，并找医生帮忙申请&lt;/p&gt;
-&lt;/blockquote&gt;
 
 &lt;pre&gt;&lt;code class=&quot;language-flow&quot;&gt;st=&amp;gt;start: 1、患者申请 + 医生配合 或 医生代患者申请
 op1=&amp;gt;operation: 2、心桥收到会诊申请，整理资料，监控数据
