@@ -1,32 +1,17 @@
 ---
 layout:    about
-permalink: "/about/"
-author:    Burgess Yang
-keywords:  about person
-title:     About Burgess Yang
+permalink: "/about"
+author:    jdecent
+keywords:  about person demo example
+title:     About Jekyll Decent
 menutitle: About
-visible:   false
 weight:    90
 excerpt:   This page contains the curriculum vitae (CV) of the author.
----
+--- 
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
-## Profile
+If you like this theme and like to show your appreciation then please leave a star in the GitHub repository or [buy me a coffee](https://www.paypal.me/jenswillmer/3) - Thank you!
 
-Integer sit amet libero non sapien sagittis dapibus. Phasellus gravida quam ac nisl finibus dictum. Pellentesque vel orci et nisi pretium tincidunt nec a diam. Vivamus et leo eu lorem congue pellentesque id sed tortor. Nulla et nibh neque. Sed ut fermentum lectus, id rhoncus erat.
-
----
-
-## Skills
-
-- Praesent ac augue imperdiet, interdum purus id, sollicitudin sem.
-- Sed pellentesque urna a magna suscipit volutpat.
-- Donec ultricies lectus non augue dictum hendrerit ac ac lorem.
-- Integer eget dui eu purus luctus posuere in non metus.
-- Nam ac felis eget tortor blandit gravida non et diam.
-
----
-
-## Education
-
-2009 - 2012
-: Mauris vitae velit vel leo suscipit tempus vel vel elit.
+<p class="github-button-container">
+<a class="github-button" href="https://github.com/jwillmer/jekyllDecent" data-size="large" data-show-count="true" aria-label="Star jwillmer/jekyllDecent on GitHub">jekyllDecent</a>
+</p>
