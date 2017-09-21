@@ -42,3 +42,12 @@ jwillmer:
   website:      "http://jwillmer.de/cv" 
   twitter:      jenswillmer
   github:       jwillmer
+roy:
+  initial:      roy
+  name:         "Roy Yang"        
+  picture:      /assets/royicon.jpeg  
+  bio:          All about technology 
+  location:     Germany 
+  website:      "http://yangrongkai.github.com/cv" 
+  twitter:      ''
+  github:       ''
