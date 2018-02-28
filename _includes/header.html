@@ -1,27 +1,38 @@
-{% if page.cover %}
-{% assign cover = page.cover %}
-{% elsif site.cover %}
-{% assign cover = site.cover %}
-{% endif %}
+<header class="header">
 
-<header class="main-header detail-page image-bg {% if cover %} has-cover" style="background-image: url({{ cover | absolute_url }})" {% else %} no-cover" {% endif %}>
-    <h1 class="page-title"><a href="{{ "/" | absolute_url }}" title="{{ site.title }}">{{ site.title }}</a></h1>
-    <h2 class="page-description">{{ site.subtitle }}</h2>
-    <div class="nav">
-            <a class="page-link" href="{{ "/" | absolute_url }}" title="Home">Home</a>
+  <div class="overlay">
 
-            {% assign pages = site.pages | sort:"weight"  %}
-            {% for my_page in pages %}
+    <div class="container">
 
-            {% if my_page.menutitle %}
-            {% assign title = my_page.menutitle %}
-            {% elsif site.title %}
-            {% assign title = my_page.title %}
+      <h1 class="title">
+        <a href="{{ site.baseurl }}/">{{ site.title }}</a> <small>v2</small>
+      </h1>
+
+      <nav class="navbar">
+        <a href="#" class="menu-icon">
+          <span></span>
+          <span></span>
+          <span></span>
+        </a>
+
+        <ul class="nav">
+          {% for page in site.pages %}
+            {% if page.title and page.title != 'Home' %}
+            <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
             {% endif %}
-
-            {% if title and my_page.visible != false %}
-            <a class="page-link" href="{{ my_page.url | absolute_url }}" title="{{ title }}">{{ title }}</a>
-            {% endif %}
-            {% endfor %}
+          {% endfor %}
+          <li><a href="{{ site.author.url }}/about" target="_blank">the autor</a></li>
+          <li><a href="{{ site.github }}" target="_blank">Github</a></li>
+        </ul>
+      </nav>
     </div>
+
+    {% if page.slug == 'home' %}
+      <h2 class="txt-center">
+        Welcome to <strong>{{ site.title }}</strong>!
+      </h2>
+    {% endif %}
+
+  </div>
+
 </header>
