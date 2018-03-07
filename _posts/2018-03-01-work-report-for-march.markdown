@@ -2,7 +2,8 @@
 layout: post
 title:  "研发3月份工作报告"
 date:   2018-03-02 19:00:00
-categories: qianyan
+categories: work
+ascription: work
 comments: true
 ---
 

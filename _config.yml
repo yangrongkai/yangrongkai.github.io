@@ -18,7 +18,8 @@ google_analytics: UA-52446115-1
 
 paginate: 2
 comments: true
-paginate_path: "/page/:num"
+# paginate_path: "/page/:num"
+paginatepath: ['topics/work/page/:num', 'topics/team/page/:num','topics/init/page/:num']
 
 sass:
   style: :compressed
@@ -26,4 +27,8 @@ sass:
 
 # Build settings
 markdown  : kramdown
-permalink : /:title/
+# permalink : /:title/
+
+
+# config plugins
+# gems: [jekyll-paginate-plugin]

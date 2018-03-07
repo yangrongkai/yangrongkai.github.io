@@ -2,7 +2,8 @@
 layout: post
 title:  "年前工作报告"
 date:   2018-02-13 03:00:08
-categories: qianyan
+categories: work
+ascription: work
 comments: true
 ---
 [bug_list]: ../resource/20180228/bug_list.pdf "缺陷清单"
