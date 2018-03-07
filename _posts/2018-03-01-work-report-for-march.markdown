@@ -62,7 +62,7 @@ comments: true
 4. 研发与ui的合作部分需要制定相关的工作规范，降低沟通成本
 
 ###### 附：
-<a target="_blank" href="../resource/20180307/20180226_20180305_test_report.html">测试报告</a>
+* <a target="_blank" href="../resource/20180307/20180226_20180305_test_report.html">测试报告</a>
 
 <br/>
 
