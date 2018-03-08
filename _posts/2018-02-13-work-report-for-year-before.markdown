@@ -2,7 +2,7 @@
 layout: post
 title:  "年前工作报告"
 date:   2018-02-13 03:00:08
-categories: work
+categories: qianyan
 ascription: work
 comments: true
 ---
