@@ -5,9 +5,175 @@
     <description>a great man</description>
     <link>http://nandomoreira.me/</link>
     <atom:link href="http://nandomoreira.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Mar 2018 18:35:46 +0800</pubDate>
-    <lastBuildDate>Wed, 07 Mar 2018 18:35:46 +0800</lastBuildDate>
+    <pubDate>Thu, 08 Mar 2018 14:38:41 +0800</pubDate>
+    <lastBuildDate>Thu, 08 Mar 2018 14:38:41 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>研发迭代阶段性工作</title>
+        <description>&lt;h4 id=&quot;section&quot;&gt;研发迭代阶段&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;战略分析阶段&lt;/li&gt;
+  &lt;li&gt;需求分析阶段&lt;/li&gt;
+  &lt;li&gt;产品设计阶段&lt;/li&gt;
+  &lt;li&gt;产品研发阶段&lt;/li&gt;
+  &lt;li&gt;产品发布阶段&lt;/li&gt;
+  &lt;li&gt;产品运维阶段&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;section-1&quot;&gt;战略分析阶段&lt;/h5&gt;
+
+&lt;h6 id=&quot;section-2&quot;&gt;输入&lt;/h6&gt;
+
+&lt;h6 id=&quot;section-3&quot;&gt;过程&lt;/h6&gt;
+
+&lt;h6 id=&quot;section-4&quot;&gt;输出&lt;/h6&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;section-5&quot;&gt;需求分析阶段&lt;/h5&gt;
+
+&lt;h6 id=&quot;section-6&quot;&gt;输入&lt;/h6&gt;
+&lt;ol&gt;
+  &lt;li&gt;商业计划书&lt;/li&gt;
+  &lt;li&gt;产品需求说明书&lt;/li&gt;
+  &lt;li&gt;市场数据采集及分析报告&lt;/li&gt;
+  &lt;li&gt;用户需求采集列表&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h6 id=&quot;section-7&quot;&gt;过程&lt;/h6&gt;
+&lt;ol&gt;
+  &lt;li&gt;进行市场及用户数据的分析&lt;/li&gt;
+  &lt;li&gt;进行用户需求评估&lt;/li&gt;
+  &lt;li&gt;进行全局的统筹规划&lt;/li&gt;
+  &lt;li&gt;进行迭代计划的制定&lt;/li&gt;
+  &lt;li&gt;进行计划内容的梳理&lt;/li&gt;
+  &lt;li&gt;进行可行性评估&lt;/li&gt;
+  &lt;li&gt;进行种子用户计划及经营&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h6 id=&quot;section-8&quot;&gt;输出&lt;/h6&gt;
+&lt;ol&gt;
+  &lt;li&gt;产品迭代计划&lt;/li&gt;
+  &lt;li&gt;产品迭代流程（包含要求、流程）&lt;/li&gt;
+  &lt;li&gt;PRD（Production requirement document)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;section-9&quot;&gt;产品设计阶段&lt;/h5&gt;
+
+&lt;h6 id=&quot;section-10&quot;&gt;输入&lt;/h6&gt;
+&lt;ol&gt;
+  &lt;li&gt;PRD&lt;/li&gt;
+  &lt;li&gt;产品迭代计划&lt;/li&gt;
+  &lt;li&gt;产品迭代内容（包含要求、流程）&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h6 id=&quot;section-11&quot;&gt;过程&lt;/h6&gt;
+&lt;ol&gt;
+  &lt;li&gt;梳理产品迭代计划&lt;/li&gt;
+  &lt;li&gt;梳理产品迭代内容&lt;/li&gt;
+  &lt;li&gt;进行研发方案研究、设计及评审（架构、功能）&lt;/li&gt;
+  &lt;li&gt;进行UI设计及评审（流程、原型、细节）&lt;/li&gt;
+  &lt;li&gt;梳理 SRS（Software Requirement Specification)&lt;/li&gt;
+  &lt;li&gt;PRD维护&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h6 id=&quot;section-12&quot;&gt;输出&lt;/h6&gt;
+&lt;ol&gt;
+  &lt;li&gt;PRD&lt;/li&gt;
+  &lt;li&gt;SRS（迭代的需求、流程图、原型图、接口定义等）&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;section-13&quot;&gt;产品研发阶段&lt;/h5&gt;
+
+&lt;h6 id=&quot;section-14&quot;&gt;输入&lt;/h6&gt;
+&lt;ol&gt;
+  &lt;li&gt;SRS&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h6 id=&quot;section-15&quot;&gt;过程&lt;/h6&gt;
+&lt;ol&gt;
+  &lt;li&gt;进行SRS梳理&lt;/li&gt;
+  &lt;li&gt;进行HLD设计&lt;/li&gt;
+  &lt;li&gt;进行HLD实现&lt;/li&gt;
+  &lt;li&gt;进行持续集成（包含自动化测试）&lt;/li&gt;
+  &lt;li&gt;进行alpha、bata、release测试（功能、UI对比）&lt;/li&gt;
+  &lt;li&gt;进行待发布准备工作&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h6 id=&quot;section-16&quot;&gt;输出&lt;/h6&gt;
+&lt;ol&gt;
+  &lt;li&gt;HLD（High Level Design）&lt;/li&gt;
+  &lt;li&gt;测试用例&lt;/li&gt;
+  &lt;li&gt;测试报告&lt;/li&gt;
+  &lt;li&gt;待发布产品&lt;/li&gt;
+  &lt;li&gt;发布文档&lt;/li&gt;
+  &lt;li&gt;通知文案（对用户、对员工）&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;section-17&quot;&gt;产品发布阶段&lt;/h5&gt;
+
+&lt;h6 id=&quot;section-18&quot;&gt;输入&lt;/h6&gt;
+&lt;ol&gt;
+  &lt;li&gt;待发布产品&lt;/li&gt;
+  &lt;li&gt;发布文档&lt;/li&gt;
+  &lt;li&gt;通知文案&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h6 id=&quot;section-19&quot;&gt;过程&lt;/h6&gt;
+&lt;ol&gt;
+  &lt;li&gt;进行发布工作&lt;/li&gt;
+  &lt;li&gt;进行通知工作&lt;/li&gt;
+  &lt;li&gt;保证容错及回滚能力&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h6 id=&quot;section-20&quot;&gt;输出&lt;/h6&gt;
+&lt;ol&gt;
+  &lt;li&gt;迭代产品&lt;/li&gt;
+  &lt;li&gt;用户通知&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;section-21&quot;&gt;产品运维阶段&lt;/h5&gt;
+
+&lt;h6 id=&quot;section-22&quot;&gt;输入&lt;/h6&gt;
+&lt;ol&gt;
+  &lt;li&gt;用户运营计划&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h6 id=&quot;section-23&quot;&gt;过程&lt;/h6&gt;
+&lt;ol&gt;
+  &lt;li&gt;进行用户反馈收集&lt;/li&gt;
+  &lt;li&gt;进行线上运维（干预、活动等）&lt;/li&gt;
+  &lt;li&gt;进行线上监控（服务器负载、安全等监控）&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h6 id=&quot;section-24&quot;&gt;输出&lt;/h6&gt;
+&lt;ol&gt;
+  &lt;li&gt;用户反馈报告&lt;/li&gt;
+  &lt;li&gt;运维结果报告&lt;/li&gt;
+  &lt;li&gt;监控结果报告&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Thu, 08 Mar 2018 11:00:00 +0000</pubDate>
+        <link>http://nandomoreira.me/development/2018/03/08/development-work-flow.html</link>
+        <guid isPermaLink="true">http://nandomoreira.me/development/2018/03/08/development-work-flow.html</guid>
+        
+        
+        <category>development</category>
+        
+      </item>
     
       <item>
         <title>研发3月份工作报告</title>
@@ -123,11 +289,11 @@
 
 </description>
         <pubDate>Fri, 02 Mar 2018 19:00:00 +0000</pubDate>
-        <link>http://nandomoreira.me/work/2018/03/02/work-report-for-march.html</link>
-        <guid isPermaLink="true">http://nandomoreira.me/work/2018/03/02/work-report-for-march.html</guid>
+        <link>http://nandomoreira.me/qianyan/2018/03/02/work-report-for-march.html</link>
+        <guid isPermaLink="true">http://nandomoreira.me/qianyan/2018/03/02/work-report-for-march.html</guid>
         
         
-        <category>work</category>
+        <category>qianyan</category>
         
       </item>
     
@@ -143,11 +309,11 @@
 &lt;p&gt;&lt;img src=&quot;../resource/20180301/development_calendar.png&quot; alt=&quot;研发日历&quot; title=&quot;研发日历&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Mar 2018 19:00:00 +0000</pubDate>
-        <link>http://nandomoreira.me/team/2018/03/01/one-week-iteration-cycle-for-development.html</link>
-        <guid isPermaLink="true">http://nandomoreira.me/team/2018/03/01/one-week-iteration-cycle-for-development.html</guid>
+        <link>http://nandomoreira.me/development/2018/03/01/development-one-week-iteration-cycle.html</link>
+        <guid isPermaLink="true">http://nandomoreira.me/development/2018/03/01/development-one-week-iteration-cycle.html</guid>
         
         
-        <category>team</category>
+        <category>development</category>
         
       </item>
     
@@ -272,11 +438,11 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Tue, 13 Feb 2018 03:00:08 +0000</pubDate>
-        <link>http://nandomoreira.me/work/2018/02/13/work-report-for-year-before.html</link>
-        <guid isPermaLink="true">http://nandomoreira.me/work/2018/02/13/work-report-for-year-before.html</guid>
+        <link>http://nandomoreira.me/qianyan/2018/02/13/work-report-for-year-before.html</link>
+        <guid isPermaLink="true">http://nandomoreira.me/qianyan/2018/02/13/work-report-for-year-before.html</guid>
         
         
-        <category>work</category>
+        <category>qianyan</category>
         
       </item>
     
