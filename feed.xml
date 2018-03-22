@@ -5,9 +5,110 @@
     <description>a great man</description>
     <link>http://nandomoreira.me/</link>
     <atom:link href="http://nandomoreira.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 17 Mar 2018 11:55:10 +0800</pubDate>
-    <lastBuildDate>Sat, 17 Mar 2018 11:55:10 +0800</lastBuildDate>
+    <pubDate>Thu, 22 Mar 2018 10:30:23 +0800</pubDate>
+    <lastBuildDate>Thu, 22 Mar 2018 10:30:23 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>研发3月22日~3月30日研发工作</title>
+        <description>
+&lt;h4 id=&quot;small46small&quot;&gt;2018.03.22 ~ 2018.03.30 工作计划&lt;small&gt;&lt;strong&gt;（46工时）&lt;/strong&gt;&lt;/small&gt;&lt;/h4&gt;
+
+&lt;h5 id=&quot;section&quot;&gt;工作计划&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;收集当前研发、公司相关信息，找出当下存在的问题，并提出相关的解决方案.&lt;/li&gt;
+  &lt;li&gt;可以在2018.03.30之前正确完成新版开发节奏及流程的公布&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;附&lt;/strong&gt;:
+&lt;img src=&quot;/resource/20180322/collect_information.png&quot; alt=&quot;收集内容大纲&quot; title=&quot;收集内容大纲&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;section-1&quot;&gt;月历史事件&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;2018.02.26 - 研发团队迭代流程第一版本试运行&lt;small&gt;&lt;strong&gt;（第一周）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;small2small&quot;&gt;2018.03.22 ~ 2018.03.25&lt;small&gt;&lt;strong&gt;（2天工时）&lt;/strong&gt;&lt;/small&gt;&lt;/h5&gt;
+
+&lt;h6 id=&quot;section-2&quot;&gt;周工作计划&lt;/h6&gt;
+
+&lt;h6 id=&quot;section-3&quot;&gt;实际工作&lt;/h6&gt;
+
+&lt;h6 id=&quot;section-4&quot;&gt;工作结果&lt;/h6&gt;
+
+&lt;h6 id=&quot;section-5&quot;&gt;工作总结&lt;/h6&gt;
+
+&lt;h6 id=&quot;section-6&quot;&gt;附：&lt;/h6&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;small5small&quot;&gt;2018.03.26 ~ 2018.04.02&lt;small&gt;&lt;strong&gt;（5天工时）&lt;/strong&gt;&lt;/small&gt;&lt;/h5&gt;
+
+&lt;h6 id=&quot;section-7&quot;&gt;工作计划&lt;/h6&gt;
+
+&lt;h6 id=&quot;section-8&quot;&gt;实际工作&lt;/h6&gt;
+
+&lt;h6 id=&quot;section-9&quot;&gt;工作结果&lt;/h6&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 22 Mar 2018 09:00:00 +0000</pubDate>
+        <link>http://nandomoreira.me/bcycle/2018/03/22/work-report-for-march.html</link>
+        <guid isPermaLink="true">http://nandomoreira.me/bcycle/2018/03/22/work-report-for-march.html</guid>
+        
+        
+        <category>bcycle</category>
+        
+      </item>
+    
+      <item>
+        <title>研发crm框架规范说明书</title>
+        <description>&lt;h5 id=&quot;section&quot;&gt;命名规范&lt;/h5&gt;
+&lt;ol&gt;
+  &lt;li&gt;文件名保证全部小写，每两个单词间用“-”隔开，如：header-sider.jsx&lt;/li&gt;
+  &lt;li&gt;特殊情况下可以使用js&lt;/li&gt;
+  &lt;li&gt;变量名保证采用驼峰式，切首字母小写，如：contentHeight&lt;/li&gt;
+  &lt;li&gt;类名保证采用驼峰式，且首字母大写，如：ContextHelper&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;section-1&quot;&gt;编码规范&lt;/h5&gt;
+&lt;ol&gt;
+  &lt;li&gt;编写js代码式，保证遵守es6基本规则&lt;/li&gt;
+  &lt;li&gt;导包时，先导系统包，再导第三方包，最后导入我们自己的包&lt;/li&gt;
+  &lt;li&gt;导入自己包时，顺序为全局、中间件/工具、组件（保证依赖关系）&lt;/li&gt;
+  &lt;li&gt;css、less 保证在导包的最上方&lt;/li&gt;
+  &lt;li&gt;react绑定事件时，采用构造函数绑定方式，不采用箭头函数、render bind方式&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;code&gt;
+const { responsive, path } = this.props
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;section-2&quot;&gt;目录规范&lt;/h5&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;section-3&quot;&gt;注意事项&lt;/h5&gt;
+&lt;ol&gt;
+  &lt;li&gt;尽可能的不要外部引用&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sun, 18 Mar 2018 11:00:00 +0000</pubDate>
+        <link>http://nandomoreira.me/development/2018/03/18/development-crm-frame-specification.html</link>
+        <guid isPermaLink="true">http://nandomoreira.me/development/2018/03/18/development-crm-frame-specification.html</guid>
+        
+        
+        <category>development</category>
+        
+      </item>
     
       <item>
         <title>架构稳定性方案</title>
@@ -75,6 +176,67 @@
 &lt;h6 id=&quot;section-4&quot;&gt;系统漏洞&lt;/h6&gt;
 
 &lt;h6 id=&quot;section-5&quot;&gt;系统容灾&lt;/h6&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;tokensmallsmall&quot;&gt;token设计&lt;small&gt;（从用户的角度考虑）&lt;/small&gt;&lt;/h5&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;有效性
+    &lt;ul&gt;
+      &lt;li&gt;行为有效
+        &lt;ul&gt;
+          &lt;li&gt;流量有效&lt;/li&gt;
+          &lt;li&gt;功能有效&lt;/li&gt;
+          &lt;li&gt;操作有效&lt;/li&gt;
+          &lt;li&gt;数据有效&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;验证有效性
+        &lt;ul&gt;
+          &lt;li&gt;账户、密码有效&lt;/li&gt;
+          &lt;li&gt;授权有效&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;时效性
+    &lt;ul&gt;
+      &lt;li&gt;保证在一段时间内是有效的&lt;/li&gt;
+      &lt;li&gt;保证不暴露用户关键信息&lt;/li&gt;
+      &lt;li&gt;提出续签机制&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;唯一性
+    &lt;ul&gt;
+      &lt;li&gt;保证只有一个token是有效的&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&quot;smallsmall&quot;&gt;服务器设计&lt;small&gt;（从服务器的角度考虑）&lt;/small&gt;&lt;/h5&gt;
+&lt;ol&gt;
+  &lt;li&gt;过载保护
+    &lt;ul&gt;
+      &lt;li&gt;连接保护&lt;/li&gt;
+      &lt;li&gt;IP流量保护&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;网络攻击防范&lt;/li&gt;
+  &lt;li&gt;反扒机制设计
+    &lt;ul&gt;
+      &lt;li&gt;反扒陷阱
+        &lt;ul&gt;
+          &lt;li&gt;固定陷阱&lt;/li&gt;
+          &lt;li&gt;临时陷阱&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;异常报警&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 </description>
         <pubDate>Thu, 08 Mar 2018 15:00:00 +0000</pubDate>
         <link>http://nandomoreira.me/development/2018/03/08/development-server-stability.html</link>
@@ -377,12 +539,12 @@
         <title>研发迭代日历</title>
         <description>
 &lt;h5 id=&quot;section&quot;&gt;研发迭代流程&lt;/h5&gt;
-&lt;p&gt;&lt;img src=&quot;../resource/20180301/iteration_cycle.png&quot; alt=&quot;迭代流程&quot; title=&quot;迭代流程&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/resource/20180301/iteration_cycle.png&quot; alt=&quot;迭代流程&quot; title=&quot;迭代流程&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h5 id=&quot;smallsmall&quot;&gt;研发迭代日历&lt;small&gt;&lt;strong&gt;（迭代周期：单星期）&lt;/strong&gt;&lt;/small&gt;&lt;/h5&gt;
-&lt;p&gt;&lt;img src=&quot;../resource/20180301/development_calendar.png&quot; alt=&quot;研发日历&quot; title=&quot;研发日历&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/resource/20180301/development_calendar.png&quot; alt=&quot;研发日历&quot; title=&quot;研发日历&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Mar 2018 19:00:00 +0000</pubDate>
         <link>http://nandomoreira.me/development/2018/03/01/development-one-week-iteration-cycle.html</link>
@@ -413,7 +575,7 @@
 
 &lt;h5 id=&quot;section-2&quot;&gt;工作结果&lt;/h5&gt;
 &lt;ol&gt;
-  &lt;li&gt;发现了研发当下的节奏、文化、制度、产品的一些问题&lt;small&gt;&lt;strong&gt;（除了架构，代码部分没有进行）&lt;/strong&gt;&lt;/small&gt;，并进行了相关的问题方案整理及研发团队信息采集&lt;small&gt;&lt;strong&gt;（具体可以看附件-&lt;a href=&quot;../resource/20180228/work_flow.png&quot; title=&quot;工作梳理&quot;&gt;工作梳理&lt;/a&gt;）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
+  &lt;li&gt;发现了研发当下的节奏、文化、制度、产品的一些问题&lt;small&gt;&lt;strong&gt;（除了架构，代码部分没有进行）&lt;/strong&gt;&lt;/small&gt;，并进行了相关的问题方案整理及研发团队信息采集&lt;small&gt;&lt;strong&gt;（具体可以看附件-&lt;a href=&quot;/resource/20180228/work_flow.png&quot; title=&quot;工作梳理&quot;&gt;工作梳理&lt;/a&gt;）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
   &lt;li&gt;针对白总要求的年前需要发布的任务，将2018年2月6日定为具体的发布日，并与研发人员制定了相关的解决方案&lt;small&gt;&lt;strong&gt;（方案暂定不改变产品中的错误逻辑，针对UI进行相关的调优，起码保证app看上去像个app)&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -505,12 +667,12 @@
 
 &lt;h5 id=&quot;smallsmall-3&quot;&gt;附件 &lt;small&gt;(左键点击查看，右键另存为可以下载)&lt;/small&gt;&lt;/h5&gt;
 &lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;../resource/20180228/bug_list.pdf&quot; title=&quot;缺陷清单&quot;&gt;bug清单&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../resource/20180228/business_model.png&quot; title=&quot;商业模式&quot;&gt;商业模式&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../resource/20180228/work_flow.png&quot; title=&quot;工作梳理&quot;&gt;工作梳理&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../resource/20180228/video_record.png&quot; title=&quot;视频录制流程&quot;&gt;录制流程&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../resource/20180228/people_plan.JPG&quot; title=&quot;研发人员计划&quot;&gt;人员计划&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../resource/20180228/develop_flow.jpg&quot; title=&quot;开发迭代流程&quot;&gt;迭代流程&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/resource/20180228/bug_list.pdf&quot; title=&quot;缺陷清单&quot;&gt;bug清单&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/resource/20180228/business_model.png&quot; title=&quot;商业模式&quot;&gt;商业模式&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/resource/20180228/work_flow.png&quot; title=&quot;工作梳理&quot;&gt;工作梳理&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/resource/20180228/video_record.png&quot; title=&quot;视频录制流程&quot;&gt;录制流程&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/resource/20180228/people_plan.JPG&quot; title=&quot;研发人员计划&quot;&gt;人员计划&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/resource/20180228/develop_flow.jpg&quot; title=&quot;开发迭代流程&quot;&gt;迭代流程&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Tue, 13 Feb 2018 03:00:08 +0000</pubDate>
@@ -618,70 +780,6 @@
         
         
         <category>study</category>
-        
-      </item>
-    
-      <item>
-        <title>The quick, brown fox jumps over a lazy dog</title>
-        <description>&lt;p&gt;The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz.&lt;/p&gt;
-
-&lt;p&gt;Brick quiz whangs jumpy veldt fox. Bright vixens jump; dozy fowl quack. Quick wafting zephyrs vex bold Jim. Quick zephyrs blow, vexing daft Jim. Sex-charged fop blew my junk TV quiz. How quickly daft jumping zebras vex.&lt;/p&gt;
-
-&lt;p&gt;Two driven jocks help fax my big quiz. Quick, Baz, get my woven flax jodhpurs! “Now fax quiz Jack! “ my brave ghost pled. Five quacking zephyrs jolt my wax bed. Flummoxed by job, kvetching W. zaps Iraq. Cozy sphinx waves quart jug of bad milk.&lt;/p&gt;
-
-&lt;p&gt;A very bad quack might jinx zippy fowls. Few quips galvanized the mock jury box. Quick brown dogs jump over the lazy fox. The jay, pig, fox, zebra, and my wolves quack! Blowzy red vixens fight for a quick jump.&lt;/p&gt;
-
-&lt;p&gt;Joaquin Phoenix was gazed by MTV for luck. A wizard’s job is to vex chumps quickly in fog. Watch “Jeopardy! “, Alex Trebek’s fun TV quiz game. Woven silk pyjamas exchanged for blue quartz. Brawny gods just flocked up to quiz and vex him.&lt;/p&gt;
-
-&lt;p&gt;Adjusting quiver and bow, Zompyc[1] killed the fox. My faxed joke won a pager in the cable TV quiz show. Amazingly few discotheques provide jukeboxes. My girl wove six dozen plaid jackets before she quit. Six big devils from Japan quickly forgot how to waltz.&lt;/p&gt;
-
-&lt;p&gt;Big July earthquakes confound zany experimental vow. Foxy parsons quiz and cajole the lovably dim wiki-girl. Have a pick: twenty six letters - no forcing a jumbled quiz! Crazy Fredericka bought many very exquisite opal jewels.&lt;/p&gt;
-
-&lt;p&gt;Sixty zippers were quickly picked from the woven jute bag. A quick movement of the enemy will jeopardize six gunboats. All questions asked by five watch experts amazed the judge. Jack quietly moved up front and seized the big ball of wax.&lt;/p&gt;
-
-&lt;p&gt;The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox.&lt;/p&gt;
-
-&lt;p&gt;Bright vixens jump; dozy fowl quack. Quick wafting zephyrs vex bold Jim. Quick zephyrs blow, vexing daft Jim. Sex-charged fop blew my junk TV quiz. How quickly daft jumping zebras vex. Two driven jocks help fax my big quiz. Quick, Baz, get my woven flax jodhpurs!&lt;/p&gt;
-
-&lt;p&gt;“Now fax quiz Jack! “ my brave ghost pled. Five quacking zephyrs jolt my wax bed. Flummoxed by job, kvetching W. zaps Iraq. Cozy sphinx waves quart jug of bad milk. A very bad quack might jinx zippy fowls. Few quips galvanized the mock jury box. Quick brown dogs jump over the lazy fox. The jay, pig, fox, zebra, and my wolves quack! Blowzy red vixens fight for a quick jump. Joaquin Phoenix was gazed by MTV&lt;/p&gt;
-</description>
-        <pubDate>Thu, 06 Aug 2015 03:00:08 +0000</pubDate>
-        <link>http://nandomoreira.me/init/2015/08/06/the-quick-brown-fox.html</link>
-        <guid isPermaLink="true">http://nandomoreira.me/init/2015/08/06/the-quick-brown-fox.html</guid>
-        
-        
-        <category>init</category>
-        
-      </item>
-    
-      <item>
-        <title>A wonderful serenity has taken possession of my entire soul</title>
-        <description>&lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.&lt;/p&gt;
-
-&lt;p&gt;I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents.&lt;/p&gt;
-
-&lt;p&gt;I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.&lt;/p&gt;
-
-&lt;p&gt;When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains us, as it floats around us in an eternity of bliss; and then, my friend, when darkness overspreads my eyes, and heaven and earth seem to dwell in my soul and absorb its power, like the form of a beloved mistress, then I often think with longing, Oh, would I could describe these conceptions, could impress upon paper all that is living so full and warm within me, that it might be the mirror of my soul, as my soul is the mirror of the infinite God!&lt;/p&gt;
-
-&lt;p&gt;O my friend – but it is too much for my strength – I sink under the weight of the splendour of these visions!&lt;/p&gt;
-
-&lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.&lt;/p&gt;
-
-&lt;p&gt;I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.&lt;/p&gt;
-
-&lt;p&gt;I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents.&lt;/p&gt;
-
-&lt;p&gt;I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.&lt;/p&gt;
-
-&lt;p&gt;When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and&lt;/p&gt;
-</description>
-        <pubDate>Wed, 05 Aug 2015 03:00:08 +0000</pubDate>
-        <link>http://nandomoreira.me/init/2015/08/05/a-wonderful-serenity-has-taken.html</link>
-        <guid isPermaLink="true">http://nandomoreira.me/init/2015/08/05/a-wonderful-serenity-has-taken.html</guid>
-        
-        
-        <category>init</category>
         
       </item>
     
