@@ -7,8 +7,8 @@ ascription: work
 comments: true
 ---
 
-[development_calendar]: ../resource/20180301/development_calendar.png "研发日历"
-[test_report_1]: ../resource/20180307/20180226_20180305_test_report.html "20180226 - 20180305 测试报告"
+[development_calendar]: /resource/20180301/development_calendar.png "研发日历"
+[test_report_1]: /resource/20180307/20180226_20180305_test_report.html "20180226 - 20180305 测试报告"
 
 #### 2018.02.26 ~ 2018.04.02 工作计划<small>**（26工时）**</small>
 

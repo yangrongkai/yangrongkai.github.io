@@ -6,12 +6,12 @@ categories: qianyan
 ascription: work
 comments: true
 ---
-[bug_list]: ../resource/20180228/bug_list.pdf "缺陷清单"
-[business_model]: ../resource/20180228/business_model.png "商业模式"
-[work_flow]: ../resource/20180228/work_flow.png "工作梳理"
-[video_record]: ../resource/20180228/video_record.png "视频录制流程"
-[people_plan]: ../resource/20180228/people_plan.JPG "研发人员计划"
-[develop_flow]: ../resource/20180228/develop_flow.jpg "开发迭代流程"
+[bug_list]: /resource/20180228/bug_list.pdf "缺陷清单"
+[business_model]: /resource/20180228/business_model.png "商业模式"
+[work_flow]: /resource/20180228/work_flow.png "工作梳理"
+[video_record]: /resource/20180228/video_record.png "视频录制流程"
+[people_plan]: /resource/20180228/people_plan.JPG "研发人员计划"
+[develop_flow]: /resource/20180228/develop_flow.jpg "开发迭代流程"
 
 #### 2018.01.24 ~ 2018.01.28 <small>（3天工时）</small>
 

@@ -7,8 +7,8 @@ ascription: team
 comments: 测试
 ---
 
-[development_calendar]: ../resource/20180301/development_calendar.png "研发日历"
-[iteration_cycle]: ../resource/20180301/iteration_cycle.png "迭代流程"
+[development_calendar]: /resource/20180301/development_calendar.png "研发日历"
+[iteration_cycle]: /resource/20180301/iteration_cycle.png "迭代流程"
 
 ##### 研发迭代流程
 ![迭代流程][iteration_cycle]
