@@ -5,8 +5,8 @@
     <description>a great man</description>
     <link>http://nandomoreira.me/</link>
     <atom:link href="http://nandomoreira.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Mar 2018 09:38:58 +0800</pubDate>
-    <lastBuildDate>Fri, 23 Mar 2018 09:38:58 +0800</lastBuildDate>
+    <pubDate>Fri, 23 Mar 2018 18:07:34 +0800</pubDate>
+    <lastBuildDate>Fri, 23 Mar 2018 18:07:34 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -25,7 +25,7 @@
 
 &lt;h5 id=&quot;section-1&quot;&gt;月历史事件&lt;/h5&gt;
 &lt;ul&gt;
-  &lt;li&gt;2018.02.26 - 研发团队迭代流程第一版本试运行&lt;small&gt;&lt;strong&gt;（第一周）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
+  &lt;li&gt;无&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -66,28 +66,35 @@
 &lt;/ol&gt;
 
 &lt;h6 id=&quot;section-4&quot;&gt;工作结果&lt;/h6&gt;
+&lt;ol&gt;
+  &lt;li&gt;研发人员实操未定，但设计、知识不足，整体能力偏中下，需要进行一定的培养工作&lt;/li&gt;
+  &lt;li&gt;研发产品中产品设计不到位，页面逻辑、功能、易用都有问题，需要进行颠覆式调优工作&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;h6 id=&quot;section-5&quot;&gt;工作总结&lt;/h6&gt;
-
-&lt;h6 id=&quot;section-6&quot;&gt;附：&lt;/h6&gt;
+&lt;ol&gt;
+  &lt;li&gt;本周通过两天的工作，针对研发当下的人力资源及产品进行了相关的梳理、分析，发现研发当下的产出并不是很理想，问题可能不仅仅出在团队上，还存在着一些产品的问题（重点在crm产品）。&lt;strong&gt;研发本身是提升公司运营级别的部门，同时兼备者领导公司方向的重任&lt;/strong&gt;。但当下更多的是被各个部门牵着鼻子走，有没有一个合理的统筹、规划，以致于现在的产品价值很低，预估当前研发积攒的债务将会在未来3个月内的某一个点爆发。为了解决当下这个问题，将需要重新采集产品需求、优化及制定产品流程，并定义及落实产品迭代周期，在没能完全爆发债务问题之前，完成该部分的平滑迁移，以降低运营风险的影响。&lt;/li&gt;
+  &lt;li&gt;团队当下缺少一些环境（下星期着重分析，环境包含制度、文化、流程等），以致于团队成员缺失了一定的自主、担当、积极性等特性，而且当前没有形成很好的滚轮式前行节奏。人能成事，也能败事。这部分将会在下周多分析一些数据来做相关的数据支撑，并进行相关的未来产品、团队等改善方案的制定。&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h5 id=&quot;small5small&quot;&gt;2018.03.26 ~ 2018.04.02&lt;small&gt;&lt;strong&gt;（5天工时）&lt;/strong&gt;&lt;/small&gt;&lt;/h5&gt;
 
-&lt;h6 id=&quot;section-7&quot;&gt;工作计划&lt;/h6&gt;
+&lt;h6 id=&quot;section-6&quot;&gt;工作计划&lt;/h6&gt;
 &lt;ol&gt;
-  &lt;li&gt;熟悉研发当下的工作流（节奏、流程、制度、文化、绩效）&lt;/li&gt;
-  &lt;li&gt;熟悉软件（代码架构，数据结构，传输协议，系统框架，支撑）&lt;/li&gt;
+  &lt;li&gt;熟悉研发当下的工作流&lt;small&gt;&lt;strong&gt;（节奏、流程、制度、文化、绩效）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;熟悉软件&lt;small&gt;&lt;strong&gt;（代码架构，数据结构，传输协议，系统框架，支撑 : 临时废弃）&lt;/strong&gt;&lt;/small&gt;&lt;/del&gt;&lt;/li&gt;
   &lt;li&gt;熟悉公司的流程、业务、制度、资源&lt;/li&gt;
   &lt;li&gt;采集2个迭代的工作需求，并做相关的工作内容调整&lt;/li&gt;
   &lt;li&gt;进行相关的新版制度颁布，试用流程从2018.04.03开始&lt;/li&gt;
   &lt;li&gt;进行相关的基础设施建设&lt;/li&gt;
+  &lt;li&gt;梳理crm需求&lt;small&gt;&lt;strong&gt;（临时添加）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h6 id=&quot;section-8&quot;&gt;实际工作&lt;/h6&gt;
+&lt;h6 id=&quot;section-7&quot;&gt;实际工作&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-9&quot;&gt;工作结果&lt;/h6&gt;
+&lt;h6 id=&quot;section-8&quot;&gt;工作结果&lt;/h6&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
