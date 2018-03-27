@@ -5,8 +5,8 @@
     <description>a great man</description>
     <link>http://nandomoreira.me/</link>
     <atom:link href="http://nandomoreira.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Mar 2018 17:48:41 +0800</pubDate>
-    <lastBuildDate>Tue, 27 Mar 2018 17:48:41 +0800</lastBuildDate>
+    <pubDate>Tue, 27 Mar 2018 17:55:08 +0800</pubDate>
+    <lastBuildDate>Tue, 27 Mar 2018 17:55:08 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -609,6 +609,11 @@ const { responsive, path } = this.props
 
 &lt;h5 id=&quot;smallsmall&quot;&gt;研发迭代日历&lt;small&gt;&lt;strong&gt;（迭代周期：单星期）&lt;/strong&gt;&lt;/small&gt;&lt;/h5&gt;
 &lt;p&gt;&lt;img src=&quot;/resource/20180301/development_calendar.png&quot; alt=&quot;研发日历&quot; title=&quot;研发日历&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;section-1&quot;&gt;研发迭代过程中组织过程资产&lt;/h5&gt;
+&lt;p&gt;&lt;img src=&quot;/resource/20180327/iter_resouce.png&quot; alt=&quot;迭代过程资源&quot; title=&quot;迭代过程资源&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Mar 2018 19:00:00 +0000</pubDate>
         <link>http://nandomoreira.me/development/2018/03/01/development-one-week-iteration-cycle.html</link>
