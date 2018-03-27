@@ -8,6 +8,8 @@ comments: true
 ---
 
 [collect_information]: /resource/20180322/collect_information.png "收集内容大纲"
+[collect_resouce]: /resource/20180327/collect_resouce.pdf "采购文档"
+[iter_resouce]: /resource/20180327/iter_resouce.png "迭代过程资源"
 
 #### 2018.03.22 ~ 2018.03.30 工作计划<small>**（7天工时）**</small>
 
@@ -77,6 +79,12 @@ comments: true
 5. 梳理出研发采购的最小公共设备
 
 ###### 工作结果
+
+
+
+###### 附:
+1. [采购文档][collect_resouce]
+2. [迭代过程中组织过程资产][iter_resouce]
 
 
 
