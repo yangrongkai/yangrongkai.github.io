@@ -5,8 +5,8 @@
     <description>a great man</description>
     <link>http://nandomoreira.me/</link>
     <atom:link href="http://nandomoreira.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Mar 2018 17:55:08 +0800</pubDate>
-    <lastBuildDate>Tue, 27 Mar 2018 17:55:08 +0800</lastBuildDate>
+    <pubDate>Wed, 28 Mar 2018 18:50:17 +0800</pubDate>
+    <lastBuildDate>Wed, 28 Mar 2018 18:50:17 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -94,19 +94,43 @@
 
 &lt;h6 id=&quot;section-7&quot;&gt;实际工作&lt;/h6&gt;
 &lt;ol&gt;
-  &lt;li&gt;与社群、电销、新媒体、仓库部门相关主管进行沟通&lt;/li&gt;
-  &lt;li&gt;针对CRM产品进行相关的学习及规整&lt;/li&gt;
-  &lt;li&gt;针对研发部分人员进行基础键盘测试&lt;/li&gt;
+  &lt;li&gt;与电商、社群、电销、新媒体、仓库部门相关主管进行沟通，收集业务及需求&lt;/li&gt;
+  &lt;li&gt;用一定的时间去各个部门去实地了解各部门员工的工作方式&lt;/li&gt;
+  &lt;li&gt;针对CRM产品进行相关的学习及规整，准备输出产品需求文档&lt;/li&gt;
+  &lt;li&gt;针对研发部分人员进行基础键盘测试，并针对部分人员提出了相关的要求&lt;/li&gt;
   &lt;li&gt;针对研发中当下存在的小程序发布进行了相关的帮助&lt;/li&gt;
-  &lt;li&gt;梳理出研发采购的最小公共设备&lt;/li&gt;
+  &lt;li&gt;梳理出研发采购的最小公共设备，并验收相关的设施&lt;/li&gt;
+  &lt;li&gt;进行相关的面试工作&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h6 id=&quot;section-8&quot;&gt;工作结果&lt;/h6&gt;
+&lt;ol&gt;
+  &lt;li&gt;当下crm仅仅只是通过人为方式将业务流程打通，使用模块如下（crm像个大学毕业设计）：
+    &lt;ul&gt;
+      &lt;li&gt;外呼管理&lt;small&gt;&lt;strong&gt;（用的很少，大体上仅做了导入功能）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
+      &lt;li&gt;运营部销售报表&lt;small&gt;&lt;strong&gt;（每天基于线下统计，汇总录入）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
+      &lt;li&gt;数据统计&lt;small&gt;&lt;strong&gt;（同上，依托导入、录入功能）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
+      &lt;li&gt;数据导入&lt;small&gt;&lt;strong&gt;（用于导入管家婆、交易中心、AOA电话数据及电商退货数据）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
+      &lt;li&gt;客户分配、列表&lt;small&gt;&lt;strong&gt;（实际上是订单和设备的集中体现、现象非常之乱）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
+      &lt;li&gt;手机编号、部门&lt;small&gt;&lt;strong&gt;（用于匹配售后人员，当下功能没有扩展、数据也不全）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
+      &lt;li&gt;sn码入库、出库&lt;small&gt;&lt;strong&gt;（用于匹配sn是否为我们自己的号段）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
+      &lt;li&gt;点刷数据管理&lt;small&gt;&lt;strong&gt;（依托于导入，进行了简单的统计）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
+      &lt;li&gt;招商部管理&lt;small&gt;&lt;strong&gt;（仅仅作为一种工具使用）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
+      &lt;li&gt;小程序管理&lt;small&gt;&lt;strong&gt;（多个小程序导流，电话部分需要手机人工拨打，功能设计问题很大）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
+      &lt;li&gt;公众号管理&lt;small&gt;&lt;strong&gt;（有自己的一套体系，在订单部分出现断层，数据无法同步）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
+      &lt;li&gt;员工管理&lt;small&gt;&lt;strong&gt;（存在一人多个账户形态，权限、角色、部门设计问题很大）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;与樊英、文宁、董琛、何赛楠、林荣登等人进行过初版沟通，了解了相关的业务流程，采集了大部分需求&lt;small&gt;&lt;strong&gt;（附件：crm业务流程图及crm初版模块图）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
+  &lt;li&gt;面试人数3人&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;h6 id=&quot;section-9&quot;&gt;附:&lt;/h6&gt;
 &lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;/resource/20180327/collect_resouce.pdf&quot; title=&quot;采购文档&quot;&gt;采购文档&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/resource/20180327/iter_resouce.png&quot; title=&quot;迭代过程资源&quot;&gt;迭代过程中组织过程资产&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/resource/20180328/crm_work_flow.png&quot; title=&quot;必圈crm工作流&quot;&gt;crm业务流程图&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/resource/20180328/crm_models.png&quot; title=&quot;必圈crm初版模块&quot;&gt;crm初版模块图&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -117,6 +141,19 @@
   &lt;li&gt;物料管理?&lt;/li&gt;
   &lt;li&gt;打印管理?&lt;/li&gt;
   &lt;li&gt;采购流程?&lt;/li&gt;
+  &lt;li&gt;配置管理（内部账号信息资料）&lt;/li&gt;
+  &lt;li&gt;面试资料准备&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h6 id=&quot;section-11&quot;&gt;输出&lt;/h6&gt;
+&lt;ol&gt;
+  &lt;li&gt;crm需求列表&lt;/li&gt;
+  &lt;li&gt;研发当前问题列表&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;研发新版制度&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;官网有问题（牌子都没树立起来）&lt;/li&gt;
+  &lt;li&gt;组织过程资产有问题（账号、资源等没有统一管理）&lt;/li&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Thu, 22 Mar 2018 09:00:00 +0000</pubDate>
