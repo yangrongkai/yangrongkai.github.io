@@ -5,8 +5,8 @@
     <description>a great man</description>
     <link>http://nandomoreira.me/</link>
     <atom:link href="http://nandomoreira.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Mar 2018 18:50:17 +0800</pubDate>
-    <lastBuildDate>Wed, 28 Mar 2018 18:50:17 +0800</lastBuildDate>
+    <pubDate>Thu, 29 Mar 2018 20:07:38 +0800</pubDate>
+    <lastBuildDate>Thu, 29 Mar 2018 20:07:38 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -100,6 +100,9 @@
   &lt;li&gt;针对研发部分人员进行基础键盘测试，并针对部分人员提出了相关的要求&lt;/li&gt;
   &lt;li&gt;针对研发中当下存在的小程序发布进行了相关的帮助&lt;/li&gt;
   &lt;li&gt;梳理出研发采购的最小公共设备，并验收相关的设施&lt;/li&gt;
+  &lt;li&gt;安装内部测试集成服务器&lt;/li&gt;
+  &lt;li&gt;进行了当前研发下周工作的采集&lt;/li&gt;
+  &lt;li&gt;准备打出初版的研发文化、制度、节奏、流程（绩效偏后出台）&lt;/li&gt;
   &lt;li&gt;进行相关的面试工作&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -122,7 +125,20 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;与樊英、文宁、董琛、何赛楠、林荣登等人进行过初版沟通，了解了相关的业务流程，采集了大部分需求&lt;small&gt;&lt;strong&gt;（附件：crm业务流程图及crm初版模块图）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;面试人数3人&lt;/li&gt;
+  &lt;li&gt;已将内部服务器（dell r520）安装了ubuntu16.04系统，并安装了相关的软件：
+    &lt;ul&gt;
+      &lt;li&gt;samba服务器&lt;small&gt;&lt;strong&gt;（用于代码发布或干预）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
+      &lt;li&gt;git服务器&lt;small&gt;&lt;strong&gt;（用于下载代码）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
+      &lt;li&gt;docker服务器&lt;small&gt;&lt;strong&gt;（用于搭建集群及共享环境）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;已收集到相关的小程序近期的迭代计划：
+    &lt;ul&gt;
+      &lt;li&gt;4.02 ~ 4.08 小程序羊毛日报&lt;/li&gt;
+      &lt;li&gt;4.09 ~ 4.15 信用卡小工具合集&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;面试人数6人&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h6 id=&quot;section-9&quot;&gt;附:&lt;/h6&gt;
@@ -143,6 +159,7 @@
   &lt;li&gt;采购流程?&lt;/li&gt;
   &lt;li&gt;配置管理（内部账号信息资料）&lt;/li&gt;
   &lt;li&gt;面试资料准备&lt;/li&gt;
+  &lt;li&gt;物料管理方面要有权限，完全没有管理概念，服务器、交换机、手机等&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h6 id=&quot;section-11&quot;&gt;输出&lt;/h6&gt;
