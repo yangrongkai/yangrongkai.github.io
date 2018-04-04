@@ -5,8 +5,8 @@
     <description>a great man</description>
     <link>http://nandomoreira.me/</link>
     <atom:link href="http://nandomoreira.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Apr 2018 17:57:52 +0800</pubDate>
-    <lastBuildDate>Tue, 03 Apr 2018 17:57:52 +0800</lastBuildDate>
+    <pubDate>Wed, 04 Apr 2018 14:04:53 +0800</pubDate>
+    <lastBuildDate>Wed, 04 Apr 2018 14:04:53 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -60,9 +60,11 @@
 &lt;h6 id=&quot;section-2&quot;&gt;实际工作&lt;/h6&gt;
 &lt;ol&gt;
   &lt;li&gt;进行研发计划会议，采用责任制，制定研发周任务，调整研发为2个项目组（小程序、crm两个项目组）&lt;/li&gt;
-  &lt;li&gt;创建研发内部共享服务器（samba）用于研发内部文件共享&lt;/li&gt;
   &lt;li&gt;进行相关的临时会议，保证产品设计及功能设计保证客观、有效、可扩展、可维护。&lt;/li&gt;
-  &lt;li&gt;&lt;/li&gt;
+  &lt;li&gt;创建研发内部共享服务器（samba）用于研发内部文件共享&lt;/li&gt;
+  &lt;li&gt;进行了git基础使用培训&lt;/li&gt;
+  &lt;li&gt;搭建研发测试服务器，保证后期持续集成&lt;/li&gt;
+  &lt;li&gt;与自媒体负责人林荣登进行原型评审及验收&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h6 id=&quot;section-3&quot;&gt;工作结果&lt;/h6&gt;
@@ -76,8 +78,23 @@
       &lt;li&gt;本周至少进行一次研发培训，并针对研发人员在基础打字方面提出要求（非上班时间练习）&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+  &lt;li&gt;针对软件进行了相关临时会议，并完成了以下设计工作：
+    &lt;ul&gt;
+      &lt;li&gt;产品
+        &lt;ul&gt;
+          &lt;li&gt;羊毛小程序改3版（原型评审通过）&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;软件
+        &lt;ul&gt;
+          &lt;li&gt;crm 权限设计&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;已创建研发内部共享服务器，用于存储UI、测试、产品、开发文档&lt;/li&gt;
   &lt;li&gt;针对“羊毛日报”小程序UI稿在本周二下午完成，将进入开发状态&lt;/li&gt;
+  &lt;li&gt;研发初版研发日历及迭代模式已定义，试运行将维持4周左右。 -  &lt;a href=&quot;https://yangrongkai.github.io/development/2018/03/01/development-one-week-iteration-cycle.html&quot;&gt;研发日历&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h6 id=&quot;section-4&quot;&gt;工作总结&lt;/h6&gt;
