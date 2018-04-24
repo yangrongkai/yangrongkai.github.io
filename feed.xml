@@ -5,8 +5,8 @@
     <description>a great man</description>
     <link>http://nandomoreira.me/</link>
     <atom:link href="http://nandomoreira.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Apr 2018 12:47:41 +0800</pubDate>
-    <lastBuildDate>Tue, 24 Apr 2018 12:47:41 +0800</lastBuildDate>
+    <pubDate>Tue, 24 Apr 2018 12:50:25 +0800</pubDate>
+    <lastBuildDate>Tue, 24 Apr 2018 12:50:25 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -35,6 +35,7 @@
     &lt;ul&gt;
       &lt;li&gt;进行管家婆数据及兼容&lt;/li&gt;
       &lt;li&gt;进行员工花名册及微信、手机号管理&lt;/li&gt;
+      &lt;li&gt;完成客户管理、机会管理、订单管理&lt;/li&gt;
       &lt;li&gt;完成上次迭代未完成的架构问题&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
