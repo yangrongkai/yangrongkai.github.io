@@ -5,16 +5,180 @@
     <description>a great man</description>
     <link>http://nandomoreira.me/</link>
     <atom:link href="http://nandomoreira.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Apr 2018 22:10:19 +0800</pubDate>
-    <lastBuildDate>Mon, 16 Apr 2018 22:10:19 +0800</lastBuildDate>
+    <pubDate>Tue, 24 Apr 2018 12:47:41 +0800</pubDate>
+    <lastBuildDate>Tue, 24 Apr 2018 12:47:41 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>研发4月24日~5月3日研发工作</title>
+        <description>
+&lt;h5 id=&quot;section&quot;&gt;周历史事件&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;无&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;small7small&quot;&gt;2018.04.24 ~ 2018.05.03 工作计划&lt;small&gt;&lt;strong&gt;（7天工时）&lt;/strong&gt;&lt;/small&gt;&lt;/h4&gt;
+
+&lt;h6 id=&quot;section-1&quot;&gt;工作计划&lt;/h6&gt;
+&lt;ul&gt;
+  &lt;li&gt;小程序
+    &lt;ul&gt;
+      &lt;li&gt;进行“金融课程”小程序二次迭代修正&lt;/li&gt;
+      &lt;li&gt;进行“羊毛小程序”小程序二次迭代修正&lt;/li&gt;
+      &lt;li&gt;进行“必圈官网”开发&lt;/li&gt;
+      &lt;li&gt;进行5月8日的“”设计&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;crm
+    &lt;ul&gt;
+      &lt;li&gt;进行管家婆数据及兼容&lt;/li&gt;
+      &lt;li&gt;进行员工花名册及微信、手机号管理&lt;/li&gt;
+      &lt;li&gt;完成上次迭代未完成的架构问题&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;推广组
+    &lt;ul&gt;
+      &lt;li&gt;安排2星期工时，完成自媒体的初版推广工具&lt;/li&gt;
+      &lt;li&gt;模块暂定包含推广也制作、员工模块、分配模块、客户列表模块、权限模块等&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;其他
+    &lt;ul&gt;
+      &lt;li&gt;crm杂事配合&lt;/li&gt;
+      &lt;li&gt;推广工作配合&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;支持
+    &lt;ul&gt;
+      &lt;li&gt;后端人员需要添加1人&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&quot;section-2&quot;&gt;实际工作&lt;/h6&gt;
+
+&lt;h6 id=&quot;section-3&quot;&gt;工作结果&lt;/h6&gt;
+
+&lt;h6 id=&quot;section-4&quot;&gt;工作总结&lt;/h6&gt;
+</description>
+        <pubDate>Tue, 24 Apr 2018 11:15:00 +0000</pubDate>
+        <link>http://nandomoreira.me/bcycle/2018/04/24/work-report-for-april.html</link>
+        <guid isPermaLink="true">http://nandomoreira.me/bcycle/2018/04/24/work-report-for-april.html</guid>
+        
+        
+        <category>bcycle</category>
+        
+      </item>
+    
+      <item>
+        <title>研发4月17日~4月23日研发工作</title>
+        <description>
+&lt;h5 id=&quot;section&quot;&gt;周历史事件&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;2018.04.23 研发进行了一次发布，具体内容为“金融小课堂”，发布成功。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;small5small&quot;&gt;2018.04.17 ~ 2018.04.23 工作计划&lt;small&gt;&lt;strong&gt;（5天工时）&lt;/strong&gt;&lt;/small&gt;&lt;/h4&gt;
+
+&lt;h6 id=&quot;section-1&quot;&gt;工作计划&lt;/h6&gt;
+&lt;ul&gt;
+  &lt;li&gt;小程序
+    &lt;ul&gt;
+      &lt;li&gt;开发“金融课程”小程序,并发布初稿&lt;/li&gt;
+      &lt;li&gt;进行5月8日的“会员日”设计&lt;/li&gt;
+      &lt;li&gt;搭建本地的测试环境&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;crm
+    &lt;ul&gt;
+      &lt;li&gt;账号管理、用户管理、员工管理、权限管理、日志管理等进行集成&lt;/li&gt;
+      &lt;li&gt;构建自动化测试工具，初始化脚本，测试环境，线上环境&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;推广组
+    &lt;ul&gt;
+      &lt;li&gt;安排2星期工时，完成自媒体的初版推广工具&lt;/li&gt;
+      &lt;li&gt;模块暂定包含推广也制作、员工模块、分配模块、客户列表模块、权限模块等&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;其他
+    &lt;ul&gt;
+      &lt;li&gt;crm杂事配合&lt;/li&gt;
+      &lt;li&gt;推广工作配合&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;支持
+    &lt;ul&gt;
+      &lt;li&gt;后端人员需要添加1人&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&quot;section-2&quot;&gt;实际工作&lt;/h6&gt;
+&lt;ol&gt;
+  &lt;li&gt;进行了“回顾会议”，总结、探讨上一迭代操作&lt;/li&gt;
+  &lt;li&gt;进行了基本编码的考核（需要继续持续3周）&lt;/li&gt;
+  &lt;li&gt;进行了“计划会议”，针对研发本次迭代进行工作安排&lt;/li&gt;
+  &lt;li&gt;进行了“crm需求会议”，针对crm工作进行了相关的设计及疏导&lt;/li&gt;
+  &lt;li&gt;修正“例会”模式，让其变得更高效&lt;/li&gt;
+  &lt;li&gt;收集部分需求,社群部及人事部&lt;/li&gt;
+  &lt;li&gt;服务器、工具采购&lt;/li&gt;
+  &lt;li&gt;人员招聘工作继续进行&lt;/li&gt;
+  &lt;li&gt;安排相关需求人员进行验收流程&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h6 id=&quot;section-3&quot;&gt;工作结果&lt;/h6&gt;
+&lt;ol&gt;
+  &lt;li&gt;完成了上周发布及协作过程中存在的“问题”，主要仍存在沟通、协作问题上。并做了相关的研发会议纪要&lt;/li&gt;
+  &lt;li&gt;进行了编码考核制度的修正，并定义了3档周期。当前1档全员通过&lt;/li&gt;
+  &lt;li&gt;在计划会议上安排的所有的“工作计划”相关内容&lt;/li&gt;
+  &lt;li&gt;基于不同的小项目组，修正了例会开会形式，优化了沟通机制&lt;/li&gt;
+  &lt;li&gt;针对crm的未来开发计划对全员做了相关疏导，并确立目标&lt;/li&gt;
+  &lt;li&gt;针对社群部及人事部获取以下两个需求：
+    &lt;ol&gt;
+      &lt;li&gt;人事部需要有花名册功能&lt;/li&gt;
+      &lt;li&gt;社群部希望可以有功能记录手机号及相关人员的绑定关系&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;线上服务器续费、crm服务器购买、及墨刀工具的付费都已完成&lt;/li&gt;
+  &lt;li&gt;人员招聘前端1人，后端无&lt;/li&gt;
+  &lt;li&gt;已安排文宁、林荣登、周志雄验收相关的需求。
+    &lt;ol&gt;
+      &lt;li&gt;会员日设计稿敲定&lt;/li&gt;
+      &lt;li&gt;金融小课堂小程序初版&lt;/li&gt;
+      &lt;li&gt;推广页面维稳&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h6 id=&quot;section-4&quot;&gt;工作总结&lt;/h6&gt;
+&lt;ol&gt;
+  &lt;li&gt;本周节奏、流程相对较顺，团队已有相关协作萌芽产生，但级别仍旧很低&lt;/li&gt;
+  &lt;li&gt;责任制已经落实下去，相较工作来说仍存有加班现象，出现原因仍为能力不足，协作不顺，外加欠债太多&lt;/li&gt;
+  &lt;li&gt;人员仍有内部隐患，还在观测中。&lt;/li&gt;
+  &lt;li&gt;crm进度偏慢，需要进行思考.&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Tue, 24 Apr 2018 11:15:00 +0000</pubDate>
+        <link>http://nandomoreira.me/bcycle/2018/04/24/work-report-for-april.html</link>
+        <guid isPermaLink="true">http://nandomoreira.me/bcycle/2018/04/24/work-report-for-april.html</guid>
+        
+        
+        <category>bcycle</category>
+        
+      </item>
     
       <item>
         <title>研发4月10日~4月16日研发工作</title>
         <description>
 &lt;h5 id=&quot;section&quot;&gt;周历史事件&lt;/h5&gt;
 &lt;ul&gt;
-  &lt;li&gt;无&lt;/li&gt;
+  &lt;li&gt;2018.04.16 研发进行了一次发布，具体内容为“羊毛小程序”，发布成功。&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -122,6 +286,11 @@
 &lt;/ul&gt;
 
 &lt;h6 id=&quot;section-4&quot;&gt;工作总结&lt;/h6&gt;
+&lt;p&gt;1.存有部分工作遗留，进度相对滞后，主要原因仍存在在流程不熟悉，能力偏低两方面。
+2.存在着外部不断临时提报需求，造成在原定的饱负荷工作量持续添加需求，造成质量及效能大打折扣（当前处理方案是找出一个人临时处理所有这方面问题）
+3.团队中仍存有不安定因素，具体暂不描述，需要时间解决。
+4.团队相对来说，成员已经出现了进步的萌芽，需要通过实战继续促进。
+5.团队间合作存有部分问题，没规划，没监督的，没把控现象时有发生，当结果出现了造成了局面失控。具体研发当流程节奏进入正轨后，将会进行部门影响战略。&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Apr 2018 11:15:00 +0000</pubDate>
         <link>http://nandomoreira.me/bcycle/2018/04/10/work-report-for-april.html</link>
@@ -171,6 +340,7 @@
 &lt;ul&gt;
   &lt;li&gt;2018.05.08会员日 - 文宁&lt;/li&gt;
   &lt;li&gt;推广项目组客户积累系统支持 - 林荣登&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;推送处理 - 林荣登 : 2018.04.16&lt;/del&gt;&lt;/li&gt;
   &lt;li&gt;&lt;del&gt;2018.04.18会员日 - 文宁 : 2018.04.16&lt;/del&gt;&lt;/li&gt;
   &lt;li&gt;&lt;del&gt;落地页支持 - 推广  :  2018.04.16&lt;/del&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -962,160 +1132,6 @@ const { responsive, path } = this.props
         <pubDate>Fri, 02 Mar 2018 19:00:00 +0000</pubDate>
         <link>http://nandomoreira.me/qianyan/2018/03/02/work-report-for-march.html</link>
         <guid isPermaLink="true">http://nandomoreira.me/qianyan/2018/03/02/work-report-for-march.html</guid>
-        
-        
-        <category>qianyan</category>
-        
-      </item>
-    
-      <item>
-        <title>研发迭代日历</title>
-        <description>
-&lt;h5 id=&quot;section&quot;&gt;研发迭代流程&lt;/h5&gt;
-&lt;p&gt;&lt;img src=&quot;/resource/20180301/iteration_cycle.png&quot; alt=&quot;迭代流程&quot; title=&quot;迭代流程&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;smallsmall&quot;&gt;研发迭代日历&lt;small&gt;&lt;strong&gt;（迭代周期：单星期）&lt;/strong&gt;&lt;/small&gt;&lt;/h5&gt;
-&lt;p&gt;&lt;img src=&quot;/resource/20180301/development_calendar.png&quot; alt=&quot;研发日历&quot; title=&quot;研发日历&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;section-1&quot;&gt;研发迭代过程中组织过程资产&lt;/h5&gt;
-&lt;p&gt;&lt;img src=&quot;/resource/20180327/iter_resouce.png&quot; alt=&quot;迭代过程资源&quot; title=&quot;迭代过程资源&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 01 Mar 2018 19:00:00 +0000</pubDate>
-        <link>http://nandomoreira.me/development/2018/03/01/development-one-week-iteration-cycle.html</link>
-        <guid isPermaLink="true">http://nandomoreira.me/development/2018/03/01/development-one-week-iteration-cycle.html</guid>
-        
-        
-        <category>development</category>
-        
-      </item>
-    
-      <item>
-        <title>年前工作报告</title>
-        <description>
-&lt;h4 id=&quot;small3small&quot;&gt;2018.01.24 ~ 2018.01.28 &lt;small&gt;（3天工时）&lt;/small&gt;&lt;/h4&gt;
-
-&lt;h5 id=&quot;section&quot;&gt;原定计划&lt;/h5&gt;
-&lt;ol&gt;
-  &lt;li&gt;找出部分研发当下存在的问题&lt;/li&gt;
-  &lt;li&gt;针对找出的问题提出相应的解决方案&lt;/li&gt;
-  &lt;li&gt;规划未来的工作，并予以确认进行&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h5 id=&quot;section-1&quot;&gt;实际工作&lt;/h5&gt;
-&lt;ol&gt;
-  &lt;li&gt;找出研发当下的问题&lt;small&gt;&lt;strong&gt;（当时仅仅只有流程、节奏、文化、制度、基础设施部分）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;2018.01.25临时要求年前必须有一个版本发布，调整了部分计划进行了UI比测试，常规正常流程应该是先设计 流程、功能、元素、细节、易用，但当下存在很大的产品问题，为了不影响到发布，当下的流程是反其道而行&lt;small&gt;&lt;strong&gt;（易用抛开交互，仅考虑页面）&lt;/strong&gt;&lt;/small&gt;，即：先处理细节、元素。功能及流程暂缓&lt;small&gt;&lt;strong&gt;（短时间内如果修正流程及功能会导致大量的工作量，对整体有所影响-roi不高）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h5 id=&quot;section-2&quot;&gt;工作结果&lt;/h5&gt;
-&lt;ol&gt;
-  &lt;li&gt;发现了研发当下的节奏、文化、制度、产品的一些问题&lt;small&gt;&lt;strong&gt;（除了架构，代码部分没有进行）&lt;/strong&gt;&lt;/small&gt;，并进行了相关的问题方案整理及研发团队信息采集&lt;small&gt;&lt;strong&gt;（具体可以看附件-&lt;a href=&quot;/resource/20180228/work_flow.png&quot; title=&quot;工作梳理&quot;&gt;工作梳理&lt;/a&gt;）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;针对白总要求的年前需要发布的任务，将2018年2月6日定为具体的发布日，并与研发人员制定了相关的解决方案&lt;small&gt;&lt;strong&gt;（方案暂定不改变产品中的错误逻辑，针对UI进行相关的调优，起码保证app看上去像个app)&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h5 id=&quot;small-20180206small&quot;&gt;附&lt;small&gt;&lt;strong&gt;（ 2018.02.06发布的原因）&lt;/strong&gt;&lt;/small&gt;&lt;/h5&gt;
-&lt;ol&gt;
-  &lt;li&gt;2018.02.14日放假，向前推5~7天保证，ios第一版审核通过，同时，如果第一版审核出来问题，年前可以上第二版&lt;/li&gt;
-  &lt;li&gt;保证能够有1~2天如果现网有问题可以理解处理，不至于推到年后。&lt;/li&gt;
-  &lt;li&gt;这个过程可以迭代两个周期，在2018.02.06可以适当的调整节奏、制度、迭代。保证未来高效的进行工作。&lt;small&gt;&lt;strong&gt;（适当的修整是为了更好地前进）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;small651small&quot;&gt;2018.01.28 ~ 2018.02.06 &lt;small&gt;（6.5天工时，请假1天）&lt;/small&gt;&lt;/h4&gt;
-
-&lt;h5 id=&quot;section-3&quot;&gt;原定计划&lt;/h5&gt;
-&lt;ol&gt;
-  &lt;li&gt;修正研发的一些不恰当工作节奏、制度、文化、流程&lt;/li&gt;
-  &lt;li&gt;解决研发的当下存在的环境问题（开发环境、测试环境、产品环境、公共环境 - 测试机、内部服务器）&lt;/li&gt;
-  &lt;li&gt;了解短视频行业，及当下产品中存在的进度&lt;/li&gt;
-  &lt;li&gt;采集关于软件层面、架构层面的数据，评估产品稳定性&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h5 id=&quot;small2018appsmall&quot;&gt;实际工作 &lt;small&gt;（修正计划，解决2018年年前需要发布一版APP问题）&lt;/small&gt;&lt;/h5&gt;
-&lt;ol&gt;
-  &lt;li&gt;一直致力于每天产品的使用及UI对比、决策、评测&lt;small&gt;&lt;strong&gt;（执行了4版测试验收工作）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;引导UI进行相关的设计工作 &lt;small&gt;&lt;strong&gt;（能力欠缺，需要培养）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;针对部分研发逻辑进行相关的修改 &lt;small&gt;&lt;strong&gt;（性价比高的小逻辑可以更改）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h5 id=&quot;section-4&quot;&gt;遇到困难：&lt;/h5&gt;
-&lt;ol&gt;
-  &lt;li&gt;研发团队的节奏适应&lt;small&gt;&lt;strong&gt;（初期不适合更改节奏，需要跟随）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;当下产品存在的种种不足适应&lt;small&gt;&lt;strong&gt;（业务逻辑、UI日积月累的债务太多）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h5 id=&quot;section-5&quot;&gt;工作结果&lt;/h5&gt;
-&lt;ol&gt;
-  &lt;li&gt;提出了205个UI及功能缺陷，并修正了70%&lt;small&gt;&lt;strong&gt;（至少还有3倍的缺陷没有测到）&lt;/strong&gt; &lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;2018年2月6日ios正常发布，android因为录制crash无法发布，以致于延迟2天发布&lt;small&gt;&lt;strong&gt;（ios因支付适配问题最终也审核失败，此次2018年2月6日发布结果ios及android都未正常上线）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h5 id=&quot;smallsmall&quot;&gt;工作总结 &lt;small&gt;（导致发布失败的原因）&lt;/small&gt;&lt;/h5&gt;
-&lt;ol&gt;
-  &lt;li&gt;研发开发过程中太多的过程监控未到位，以致于发布前积累了太多的债务，无法短时间内处理完成&lt;/li&gt;
-  &lt;li&gt;研发人员配比不合理，测试人员完全没有，UI对比验收不复存在，导致债务加剧&lt;/li&gt;
-  &lt;li&gt;研发团队中开发资源不健全、开发流程相对混乱、迭代方式及时间控制不合理，导致事倍功半&lt;/li&gt;
-  &lt;li&gt;计划定义过于乐观，时间点定义唐突，appstore审核过程中处理应该提前电话沟通。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;small5small&quot;&gt;2018.02.07 ~ 2018.02.14 &lt;small&gt;（5天工时）&lt;/small&gt;&lt;/h5&gt;
-
-&lt;h6 id=&quot;section-6&quot;&gt;原定计划&lt;/h6&gt;
-&lt;ol&gt;
-  &lt;li&gt;组织补丁版发布，主要以测试修改为主。&lt;/li&gt;
-  &lt;li&gt;处理研发的基础设施及公共设施问题（内部服务器、测试机等）&lt;/li&gt;
-  &lt;li&gt;处理研发的节奏、迭代、制度的问题，保证能够最小化的高效运作。&lt;/li&gt;
-  &lt;li&gt;制定明年开年来的人员计划、迭代计划、产品计划用来匹配战略计划、推广计划及运营计划&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h5 id=&quot;smallsmall-1&quot;&gt;实际工作 &lt;small&gt;（计划因为发布失败而进行相关的修正）&lt;/small&gt;&lt;/h5&gt;
-&lt;ol&gt;
-  &lt;li&gt;监控处理android的录制功能，并针对android进行修改发布&lt;/li&gt;
-  &lt;li&gt;处理ios审核问题，针对打回来的要求进行相关的修正工作&lt;/li&gt;
-  &lt;li&gt;清理android及ios中剩余的缺陷&lt;/li&gt;
-  &lt;li&gt;开会梳理并定义开年来的开发流程，达成统一，形成开发节奏。&lt;/li&gt;
-  &lt;li&gt;与老杨、龚总沟通公司来年公司软件发展&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h5 id=&quot;section-7&quot;&gt;工作结果&lt;/h5&gt;
-&lt;ol&gt;
-  &lt;li&gt;android上线花费了3天工时，但录制方面在适配及稳定度方面都还不足，仅能保证60%的成功率&lt;/li&gt;
-  &lt;li&gt;android通过了应用宝、华为、oppo、vivo的审核，成功上线&lt;/li&gt;
-  &lt;li&gt;ios未上线成功，再次打回&lt;small&gt;&lt;strong&gt;（打回时间为2018年2月17日 - 大年初二）&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;开年来的工作流程已经确认，并下达到所有人，要求回来的前两次迭代适应&lt;/li&gt;
-  &lt;li&gt;开年来软件发展的核心竞争力暂定为“内容的差异化”&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h5 id=&quot;smallsmall-2&quot;&gt;工作总结 &lt;small&gt;（计划与实际相差颇大）&lt;/small&gt;&lt;/h5&gt;
-&lt;ol&gt;
-  &lt;li&gt;android在开发初期框架选择存在问题，导致连续3天干到凌晨1点还未解决录制问题&lt;/li&gt;
-  &lt;li&gt;ios审核失败了4次，最终查明原因是因为支付流程不满足apple内购流程，应该早期与苹果官方沟通&lt;/li&gt;
-  &lt;li&gt;研发设备、环境、制度未完成，此处缺少上层应有的配合，需要强调沟通机制&lt;/li&gt;
-  &lt;li&gt;公司开年来的软件开发战略未能确定，无法保证产品计划、推广计划、运营计划、人力计划的有效制定&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;smallsmall-3&quot;&gt;附件 &lt;small&gt;(左键点击查看，右键另存为可以下载)&lt;/small&gt;&lt;/h5&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;/resource/20180228/bug_list.pdf&quot; title=&quot;缺陷清单&quot;&gt;bug清单&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/resource/20180228/business_model.png&quot; title=&quot;商业模式&quot;&gt;商业模式&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/resource/20180228/work_flow.png&quot; title=&quot;工作梳理&quot;&gt;工作梳理&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/resource/20180228/video_record.png&quot; title=&quot;视频录制流程&quot;&gt;录制流程&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/resource/20180228/people_plan.JPG&quot; title=&quot;研发人员计划&quot;&gt;人员计划&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/resource/20180228/develop_flow.jpg&quot; title=&quot;开发迭代流程&quot;&gt;迭代流程&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Tue, 13 Feb 2018 03:00:08 +0000</pubDate>
-        <link>http://nandomoreira.me/qianyan/2018/02/13/work-report-for-year-before.html</link>
-        <guid isPermaLink="true">http://nandomoreira.me/qianyan/2018/02/13/work-report-for-year-before.html</guid>
         
         
         <category>qianyan</category>
